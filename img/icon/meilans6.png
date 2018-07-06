@@ -1,0 +1,1041 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>魅蓝 S6-魅族商城</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="//store.res.meizu.com/layout/img/favicon-2e71785f44.ico" rel="shortcut icon" type="image/x-icon" />
+    <link href="//store.res.meizu.com/layout/img/favicon-2e71785f44.ico" rel="icon" type="image/x-icon" />
+    <meta name="description" content="魅蓝 S6，领券立减50元，享6期免息，正品行货，另有魅蓝 S6详细介绍、图片、价格、参数、售前咨询等，购买魅蓝 S6上魅族商城，全场包邮，7天无理由退货，15天换货保障。">
+    <meta name="keywords" content="魅蓝 S6，魅族，魅族商城">
+    <link rel="stylesheet" href="//store.res.meizu.com//layout/css/layout-f37b367275.css" />
+
+    <!--[if lt IE 9]>
+    <script src="//store.res.meizu.com/layout/js/html5shiv-3ed50bb69a.js" type="text/javascript"></script>
+    <script src="//store.res.meizu.com/layout/js/es5-shim-50bbaee56e.js" type="text/javascript"></script>
+    <![endif]-->
+<link rel="stylesheet" href="//store.res.meizu.com/detail/css/detail-c6ce871e14.css">
+</head>
+<body>
+    <!-- common header -->
+
+<script>
+    var layoutHeaderData = {
+        header: [{"id":723,"fid":9,"cid":2,"name":"魅族手机","order":2,"href":"https://lists.meizu.com/page/list/?categoryid=76&features=80%3A27057%2C27058%2C27059%2C23954%2C23955","floorAllocations":[{"id":9210,"cid":2,"order":1,"itemId":11597.0,"goodsType":2,"goodsTypeId":11597,"price":2499.00,"priceGetStart":1.0,"autoPrice":0,"name":"魅族 15","subNameRed":0.0,"img":"https://openfile.meizu.com/group1/M00/04/57/Cgbj0VrxPbKAPw-1AAJWqasMn_A309.png","href":"https://detail.meizu.com/item/meizu15.html","status":0,"fid":9,"createTime":"Jun 1, 2018 12:01:18 AM","updateTime":"Jun 1, 2018 12:01:18 AM"},{"id":9217,"cid":2,"order":2,"itemId":11602.0,"goodsType":2,"goodsTypeId":11602,"price":2999.00,"priceGetStart":1.0,"autoPrice":0,"name":"魅族 15 Plus","subNameRed":0.0,"img":"https://openfile.meizu.com/group1/M00/04/49/Cgbj0FrxPbKAURMmAAJgeOiuUGU292.png","href":"https://detail.meizu.com/item/meizu_15plus.html","status":0,"fid":9,"createTime":"Jun 1, 2018 12:01:18 AM","updateTime":"Jun 1, 2018 12:01:18 AM"},{"id":9222,"cid":2,"order":3,"itemId":11601.0,"goodsType":2,"goodsTypeId":11601,"price":1699.00,"priceGetStart":0.0,"autoPrice":0,"name":"魅族 M15","subNameRed":0.0,"img":"https://openfile.meizu.com/group1/M00/04/57/Cgbj0VrxPbKAKcgdAADRxoC3l-8128.png","href":"https://detail.meizu.com/item/meizu_m15.html","status":0,"fid":9,"createTime":"Jun 1, 2018 12:01:18 AM","updateTime":"Jun 1, 2018 12:01:18 AM"},{"id":9225,"cid":2,"order":4,"itemId":10960.0,"goodsType":2,"goodsTypeId":10960,"price":1299.00,"priceGetStart":1.0,"autoPrice":0,"name":"魅族 PRO 7","subNameRed":0.0,"img":"https://openfile.meizu.com/group1/M00/01/C7/Cgbj0Vl4OYOAGRToAAJwA8hDe5Y164.png","href":"https://detail.meizu.com/item/pro7.html","status":0,"fid":9,"createTime":"Jun 1, 2018 12:01:18 AM","updateTime":"Jun 1, 2018 12:01:18 AM"},{"id":9231,"cid":2,"order":5,"itemId":10961.0,"goodsType":2,"goodsTypeId":10961,"price":1799.00,"priceGetStart":1.0,"autoPrice":0,"name":"PRO 7 Plus","subNameRed":0.0,"img":"https://openfile.meizu.com/group1/M00/04/49/Cgbj0FrxPgeAP99dAAuYs_pyDV0621.png","href":"https://detail.meizu.com/item/pro7plus.html?skuid=4509","status":0,"fid":9,"createTime":"Jun 1, 2018 12:01:18 AM","updateTime":"Jun 1, 2018 12:01:18 AM"},{"id":9234,"cid":2,"order":6,"itemId":10637.0,"goodsType":2,"goodsTypeId":10637,"price":2699.00,"priceGetStart":0.0,"autoPrice":0,"name":"PRO 6 Plus","subNameRed":0.0,"img":"https://openfile.meizu.com/group1/M00/00/C1/Cix_s1g-ZXuAYp1LABY2I5awJck337.png@480x480.jpg","href":"https://detail.meizu.com/item/pro6plus.html","status":0,"fid":9,"createTime":"Jun 1, 2018 12:01:18 AM","updateTime":"Jun 1, 2018 12:01:18 AM"}]},{"id":724,"fid":9,"cid":3,"name":"魅蓝手机","order":3,"href":"https://lists.meizu.com/page/list/?categoryid=76&features=80%3A24243%2C23669%2C26153%2C26604%2C28004%2C24475%2C26650%2C26651%2C24634%2C22463","floorAllocations":[{"id":9211,"cid":3,"order":1,"itemId":11737.0,"goodsType":2,"goodsTypeId":11737,"price":799.00,"priceGetStart":1.0,"autoPrice":0,"name":"魅蓝 6T","subNameRed":0.0,"img":"https://openfile.meizu.com/group1/M00/04/8C/Cgbj0VsM-iyAAgTIAAbXIwKFVL4647.png","href":"https://detail.meizu.com/item/meilan6t.html","status":0,"fid":9,"createTime":"Jun 1, 2018 12:01:18 AM","updateTime":"Jun 1, 2018 12:01:18 AM"},{"id":9214,"cid":3,"order":2,"itemId":11491.0,"goodsType":2,"goodsTypeId":11491,"price":1799.00,"priceGetStart":1.0,"autoPrice":0,"name":"魅蓝 E3","subNameRed":0.0,"img":"https://openfile.meizu.com/group1/M00/04/57/Cgbj0VrxPw-AagPuAAI1cwVNeY8122.png","href":"https://detail.meizu.com/item/meilane3.html","status":0,"fid":9,"createTime":"Jun 1, 2018 12:01:18 AM","updateTime":"Jun 1, 2018 12:01:18 AM"},{"id":9220,"cid":3,"order":3,"itemId":11382.0,"goodsType":1,"goodsTypeId":6209,"price":999.00,"priceGetStart":1.0,"autoPrice":0,"name":"魅蓝 S6","subNameRed":0.0,"img":"https://openfile.meizu.com/group1/M00/04/49/Cgbj0FrxPy6Ae3lKAAHGS6FCfDA943.png","href":"https://detail.meizu.com/item/meilans6.html","status":0,"fid":9,"createTime":"Jun 1, 2018 12:01:18 AM","updateTime":"Jun 1, 2018 12:01:18 AM"},{"id":9226,"cid":3,"order":4,"itemId":11126.0,"goodsType":2,"goodsTypeId":11126,"price":599.00,"priceGetStart":1.0,"autoPrice":0,"name":"魅蓝 6","subNameRed":0.0,"img":"https://openfile.meizu.com/group1/M00/02/2F/Cgbj0VnCGzWAWqh8AAwk2MA0gtk390.png@480x480.jpg","href":"https://detail.meizu.com/item/meilan_6.html","status":0,"fid":9,"createTime":"Jun 1, 2018 12:01:18 AM","updateTime":"Jun 1, 2018 12:01:18 AM"},{"id":9229,"cid":3,"order":5,"itemId":11018.0,"goodsType":2,"goodsTypeId":11018,"price":799.00,"priceGetStart":1.0,"autoPrice":0,"name":"魅蓝 Note6","subNameRed":0.0,"img":"https://openfile.meizu.com/group1/M00/04/57/Cgbj0VrxP0-AAEj5AAKl8ZNZqio759.png","href":"https://detail.meizu.com/item/meilannote6.html","status":0,"fid":9,"createTime":"Jun 1, 2018 12:01:18 AM","updateTime":"Jun 1, 2018 12:01:18 AM"},{"id":9235,"cid":3,"order":6,"itemId":10911.0,"goodsType":2,"goodsTypeId":10911,"price":899.00,"priceGetStart":0.0,"autoPrice":0,"name":"魅蓝 E2","subNameRed":0.0,"img":"https://openfile.meizu.com/group1/M00/04/49/Cgbj0FrxP3aANzaiAAHfla2tlaY634.png","href":"https://detail.meizu.com/item/meilane2.html","status":0,"fid":9,"createTime":"Jun 1, 2018 12:01:18 AM","updateTime":"Jun 1, 2018 12:01:18 AM"}]},{"id":725,"fid":9,"cid":10,"name":"魅族声学","order":4,"href":"https://lists.meizu.com/page/list/?categoryid=231&features=192%3A1","floorAllocations":[{"id":9207,"cid":10,"order":1,"itemId":11604.0,"goodsType":2,"goodsTypeId":11604,"price":499.00,"priceGetStart":0.0,"autoPrice":1,"name":"POP蓝牙耳机","subNameRed":0.0,"img":"https://openfile.meizu.com/group1/M00/04/57/Cgbj0VrxQ9OAZBhhAAEsbGP9-g0239.png","href":"https://detail.meizu.com/item/meizu_tws.html","status":0,"fid":9,"createTime":"Jun 1, 2018 12:01:18 AM","updateTime":"Jun 1, 2018 12:01:18 AM"},{"id":9216,"cid":10,"order":2,"itemId":11603.0,"goodsType":2,"goodsTypeId":11603,"price":999.00,"priceGetStart":0.0,"autoPrice":0,"name":"HALO激光蓝牙耳机","subNameRed":0.0,"img":"https://openfile.meizu.com/group1/M00/04/49/Cgbj0FrxQ9OASHrkAAHd8RyFtJk439.png","href":"https://detail.meizu.com/item/meizu_g20.html","status":0,"fid":9,"createTime":"Jun 1, 2018 12:01:18 AM","updateTime":"Jun 1, 2018 12:01:18 AM"},{"id":9219,"cid":10,"order":3,"itemId":11385.0,"goodsType":2,"goodsTypeId":11385,"price":1299.00,"priceGetStart":0.0,"autoPrice":1,"name":"魅族 LIVE","subNameRed":0.0,"img":"https://openfile.meizu.com/group1/M00/04/57/Cgbj0VrxQ9OAPp2AAAHX9602H_I285.png","href":"https://detail.meizu.com/item/meiuzep71.html","status":0,"fid":9,"createTime":"Jun 1, 2018 12:01:18 AM","updateTime":"Jun 1, 2018 12:01:18 AM"},{"id":9227,"cid":10,"order":4,"itemId":11386.0,"goodsType":2,"goodsTypeId":11386,"price":599.00,"priceGetStart":0.0,"autoPrice":1,"name":"Flow Bass","subNameRed":0.0,"img":"https://openfile.meizu.com/group1/M00/04/49/Cgbj0FrxQ9OANS4SAAESYJ5J8G4662.png","href":"https://detail.meizu.com/item/flowbass.html","status":0,"fid":9,"createTime":"Jun 1, 2018 12:01:18 AM","updateTime":"Jun 1, 2018 12:01:18 AM"},{"id":9232,"cid":10,"order":5,"itemId":10155.0,"goodsType":2,"goodsTypeId":10155,"price":229.00,"priceGetStart":0.0,"autoPrice":1,"name":"魅族 EP51","subNameRed":0.0,"img":"https://openfile.meizu.com/group1/M00/04/57/Cgbj0VrxQ9OAHs0WAADro6KyNPI707.png","href":"https://detail.meizu.com/item/meizu_ep51.html","status":0,"fid":9,"createTime":"Jun 1, 2018 12:01:18 AM","updateTime":"Jun 1, 2018 12:01:18 AM"},{"id":9237,"cid":10,"order":6,"itemId":10760.0,"goodsType":2,"goodsTypeId":10760,"price":169.00,"priceGetStart":0.0,"autoPrice":1,"name":"魅族蓝牙小音箱","subNameRed":0.0,"img":"https://openfile.meizu.com/group1/M00/04/49/Cgbj0FrxQ9SAVWzVAAOOmwIFC_A168.png","href":"https://detail.meizu.com/item/meizu_yinxiang_a20.html","status":0,"fid":9,"pageGoodsDiscountMqSku":{"skuId":0,"price":99.00,"discountBegin":1529942400000,"discountEnd":1530201599000},"createTime":"Jun 1, 2018 12:01:18 AM","updateTime":"Jun 1, 2018 12:01:18 AM"},{"id":9241,"cid":10,"order":7,"itemId":10563.0,"goodsType":2,"goodsTypeId":10563,"price":129.00,"priceGetStart":0.0,"autoPrice":1,"name":"魅族 EP2X","subNameRed":0.0,"img":"https://openfile.meizu.com/group1/M00/04/57/Cgbj0VrxQ9SAAHYpAACf4yQYHPc137.png","href":"https://detail.meizu.com/item/ep_2x.html","status":0,"fid":9,"pageGoodsDiscountMqSku":{"skuId":0,"price":89.00,"discountBegin":1529977260000,"discountEnd":1532966400000},"createTime":"Jun 1, 2018 12:01:18 AM","updateTime":"Jun 1, 2018 12:01:18 AM"},{"id":9245,"cid":10,"order":8,"itemId":11014.0,"goodsType":2,"goodsTypeId":11014,"price":299.00,"priceGetStart":0.0,"autoPrice":1,"name":"魅蓝 EP52","subNameRed":0.0,"img":"https://openfile.meizu.com/group1/M00/04/49/Cgbj0FrxQ9OATl4OAAFfnIyp_wU418.png","href":"https://detail.meizu.com/item/meilanep52.html","status":0,"fid":9,"createTime":"Jun 1, 2018 12:01:18 AM","updateTime":"Jun 1, 2018 12:01:18 AM"}]},{"id":726,"fid":9,"cid":11,"name":"智能·配件","order":5,"href":"https://lists.meizu.com/page/list/?categoryid=153","floorAllocations":[{"id":9208,"cid":11,"order":1,"itemId":11127.0,"goodsType":1,"goodsTypeId":5097,"price":169.00,"priceGetStart":1.0,"autoPrice":1,"name":"魅蓝双向闪充移动电源","subNameRed":0.0,"img":"https://openfile.meizu.com/group1/M00/04/49/Cgbj0FrxRYSAa6YQAABMFFMVjEk568.png","href":"https://detail.meizu.com/item/twowaym20.html?skuId=5097","status":0,"fid":9,"createTime":"Jun 1, 2018 12:01:18 AM","updateTime":"Jun 1, 2018 12:01:18 AM"},{"id":9213,"cid":11,"itemId":11605.0,"goodsType":2,"goodsTypeId":11605,"price":99.00,"priceGetStart":0.0,"autoPrice":1,"name":"魅族无线充电器","subNameRed":0.0,"img":"https://openfile.meizu.com/group1/M00/04/15/Cgbj0VrcXw2AL0tBAApTh_xwKKk709.png","href":"https://detail.meizu.com/item/wireless_charger.html","fid":9,"status":0,"order":2,"createTime":"Jun 1, 2018 12:01:18 AM","updateTime":"Jun 1, 2018 12:01:18 AM"},{"id":9224,"cid":11,"itemId":10037.0,"goodsType":2,"goodsTypeId":10037,"price":169.00,"priceGetStart":0.0,"autoPrice":1,"name":"魅族智能路由器","subNameRed":0.0,"img":"https://storeimg.meizu.com/product/1449647645-31973.png","href":"https://detail.meizu.com/item/meizu_luyouqi.html","fid":9,"status":0,"order":4,"pageGoodsDiscountMqSku":{"skuId":0,"price":69.00,"discountBegin":1530151200000,"discountEnd":1530201599000},"createTime":"Jun 1, 2018 12:01:18 AM","updateTime":"Jun 1, 2018 12:01:18 AM"},{"id":9238,"cid":11,"order":6,"itemId":10722.0,"goodsType":2,"goodsTypeId":10722,"price":229.00,"priceGetStart":0.0,"autoPrice":1,"name":"魅族手环","subNameRed":0.0,"img":"https://openfile.meizu.com/group1/M00/04/57/Cgbj0VrxRYSAAVeoAAGI27DZUHE458.png","href":"https://detail.meizu.com/item/meizu_shouhuan_h1.html","status":0,"fid":9,"pageGoodsDiscountMqSku":{"skuId":0,"price":169.00,"discountBegin":1529942400000,"discountEnd":1530201599000},"createTime":"Jun 1, 2018 12:01:18 AM","updateTime":"Jun 1, 2018 12:01:18 AM"},{"id":9242,"cid":11,"order":7,"itemId":10546.0,"goodsType":2,"goodsTypeId":10546,"price":399.00,"priceGetStart":0.0,"autoPrice":1,"name":"魅族盒子","subNameRed":0.0,"img":"https://openfile.meizu.com/group1/M00/04/49/Cgbj0FrxRYSAInh6AADPoOeWAz8281.png","href":"https://detail.meizu.com/item/meizu_hezi.html","status":0,"fid":9,"createTime":"Jun 1, 2018 12:01:18 AM","updateTime":"Jun 1, 2018 12:01:18 AM"},{"id":9246,"cid":11,"order":8,"itemId":10241.0,"goodsType":2,"goodsTypeId":10241,"price":199.00,"priceGetStart":0.0,"autoPrice":1,"name":"魅族路由器","subNameRed":0.0,"img":"https://openfile.meizu.com/group1/M00/04/57/Cgbj0VrxRYSANxyhAACP0gFVN9E385.jpg","href":"https://detail.meizu.com/item/router_f1.html","status":0,"fid":9,"createTime":"Jun 1, 2018 12:01:18 AM","updateTime":"Jun 1, 2018 12:01:18 AM"},{"id":9247,"cid":11,"order":9,"itemId":10596.0,"goodsType":2,"goodsTypeId":10596,"price":129.00,"priceGetStart":0.0,"autoPrice":1,"name":"双口快充旅行充电器","subNameRed":0.0,"img":"https://openfile.meizu.com/group1/M00/04/49/Cgbj0FrxRYWAOmysAAFBKxiKZ5U445.png","href":"https://detail.meizu.com/item/quick_travel_charger.html","status":0,"fid":9,"createTime":"Jun 1, 2018 12:01:18 AM","updateTime":"Jun 1, 2018 12:01:18 AM"},{"id":9248,"cid":11,"order":10,"itemId":10544.0,"goodsType":2,"goodsTypeId":10544,"price":29.00,"priceGetStart":0.0,"autoPrice":1,"name":" 魅族USB数据线","subNameRed":0.0,"img":"https://openfile.meizu.com/group1/M00/04/49/Cgbj0FrxRYSAKNZyAABeatsp6jw867.png","href":"https://detail.meizu.com/item/micro_usb_cable.html","status":0,"fid":9,"createTime":"Jun 1, 2018 12:01:18 AM","updateTime":"Jun 1, 2018 12:01:18 AM"}]},{"id":727,"fid":9,"cid":15,"name":"生活周边","order":6,"href":"https://lists.meizu.com/page/list/?categoryid=222","floorAllocations":[{"id":9209,"cid":15,"order":1,"itemId":11007.0,"goodsType":2,"goodsTypeId":11007,"price":199.00,"priceGetStart":0.0,"autoPrice":1,"name":"魅蓝 休闲旅行双肩包","subNameRed":0.0,"img":"https://openfile.meizu.com/group1/M00/04/49/Cgbj0FrxTr6AWJRJAAIg8sQ2Sd8611.png","href":"https://detail.meizu.com/item/meilan_bag.html","status":0,"fid":9,"createTime":"Jun 1, 2018 12:01:18 AM","updateTime":"Jun 1, 2018 12:01:18 AM"},{"id":9215,"cid":15,"itemId":10037.0,"goodsType":2,"goodsTypeId":10037,"price":169.00,"priceGetStart":0.0,"autoPrice":1,"name":"魅族智能路由器","subNameRed":0.0,"img":"https://storeimg.meizu.com/product/1449647645-31973.png","href":"https://detail.meizu.com/item/meizu_luyouqi.html","fid":9,"status":0,"order":2,"pageGoodsDiscountMqSku":{"skuId":0,"price":69.00,"discountBegin":1530151200000,"discountEnd":1530201599000},"createTime":"Jun 1, 2018 12:01:18 AM","updateTime":"Jun 1, 2018 12:01:18 AM"},{"id":9221,"cid":15,"order":3,"itemId":11017.0,"goodsType":2,"goodsTypeId":11017,"price":119.00,"priceGetStart":1.0,"autoPrice":1,"name":"魅蓝胸包","subNameRed":0.0,"img":"https://openfile.meizu.com/group1/M00/04/49/Cgbj0FrxTr2AG6btAAItkYZoxDY018.png","href":"https://detail.meizu.com/item/everydaychestpack.html","status":0,"fid":9,"createTime":"Jun 1, 2018 12:01:18 AM","updateTime":"Jun 1, 2018 12:01:18 AM"},{"id":9228,"cid":15,"order":4,"itemId":11016.0,"goodsType":2,"goodsTypeId":11016,"price":59.00,"priceGetStart":0.0,"autoPrice":1,"name":"魅蓝数码收纳包","subNameRed":0.0,"img":"https://openfile.meizu.com/group1/M00/04/57/Cgbj0VrxTryACthRAAIS1cr7_bs210.png","href":"https://detail.meizu.com/item/digitalstoragepack.html","status":0,"fid":9,"createTime":"Jun 1, 2018 12:01:18 AM","updateTime":"Jun 1, 2018 12:01:18 AM"},{"id":9233,"cid":15,"order":5,"itemId":11497.0,"goodsType":2,"goodsTypeId":11497,"price":79.00,"priceGetStart":0.0,"autoPrice":1,"name":"酷MA萌可变形颈枕","subNameRed":0.0,"img":"https://openfile.meizu.com/group1/M00/04/49/Cgbj0FrxTr2AFRdiAAJP1ff_fyo000.png","href":"https://detail.meizu.com/item/neckpillow.html","status":0,"fid":9,"createTime":"Jun 1, 2018 12:01:18 AM","updateTime":"Jun 1, 2018 12:01:18 AM"},{"id":9239,"cid":15,"order":6,"itemId":11492.0,"goodsType":2,"goodsTypeId":11492,"price":599.00,"priceGetStart":0.0,"autoPrice":1,"name":"酷MA萌旅行套装","subNameRed":0.0,"img":"https://openfile.meizu.com/group1/M00/04/58/Cgbj0VrxTr2AR8UeAALz4Fjd8wQ600.png","href":"https://detail.meizu.com/item/kumamon.html","status":0,"fid":9,"createTime":"Jun 1, 2018 12:01:18 AM","updateTime":"Jun 1, 2018 12:01:18 AM"},{"id":9243,"cid":15,"order":7,"itemId":11496.0,"goodsType":2,"goodsTypeId":11496,"price":19.00,"priceGetStart":0.0,"autoPrice":1,"name":"酷MA萌冰敷眼罩","subNameRed":0.0,"img":"https://openfile.meizu.com/group1/M00/04/58/Cgbj0VrxTr2AVPZBAAH0J5Z6am0417.png","href":"https://detail.meizu.com/item/eyemask.html","status":0,"fid":9,"createTime":"Jun 1, 2018 12:01:18 AM","updateTime":"Jun 1, 2018 12:01:18 AM"}]}]
+    };
+</script>
+<header class="layout-header clearfix" id="layoutHeader">
+    <div class="mzcontainer">
+        <div class="layout-header-logo">
+            <a target="_blank" href="http://www.meizu.com/index.html" class="layout-header-logo-link" alt="魅族科技"
+               data-mtype="wmz_public_yt_logo">
+                <i class="layout-font layout-font-logo"></i>
+            </a>
+        </div>
+        <ul class="layout-header-service clearfix">
+            <li class="layout-header-service-item layout-header-service-search" id="layoutHeaderSearch"></li>
+            <li class="layout-header-service-item" id="layoutHeaderUser">
+                <a class="layout-header-service-link" href="//me.meizu.com/member/index"
+                   data-mtype="wmz_public_yt_mycenter">
+                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAB0VBMVEXc3Nzh4eHk5OTl5eXo6Ojo6Ojp6enp6enq6urq6urr6+vr6+vr6+vr6+vs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozt7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u6wsLCxsbGysrKzs7O0tLS1tbW2tra3t7e4uLi5ubm6urq7u7u9vb3AwMDBwcHCwsLExMTFxcXGxsbHx8fIyMjJycnKysrLy8vNzc3Q0NDT09PU1NTV1dXW1tbY2Njb29vd3d3e3t7h4eHi4uLk5OTl5eXm5ubn5+fo6Ojp6enq6urr6+vs7Ozt7e3u7u53rUvhAAAAbHRSTlMFBwkKDxAREhYZHB4fIiYoKisvNTg5Oj9BQ0dKTE1OUFZXWltcYGVqa291dnd5e31/gYKDhYiKi5CSnqKmqKmrrK2vsLW2uby9vsPEx8vN09TX2Nna3eDh4uPk5+jq6+3u7/Dy9PX29/j5+/6pgdBFAAACQklEQVQYGY3BiV8MYRwH4F9E5CpHRQjJkaOEHJEjV6ScOWvTJil2zvcdhVCkSLvb1k77/Wtts+/uZ+ed2XafhzxKqpou3XkVDAbar57bvYHyqWkJIMtwW20x5bb6eDc8es6uoxxqn8FX72Hys+YGcurcTB7burGCwWqSVCKPg+RSOYx86ijLFhRgL2WseokCjGyitJsoSBcJNZDZ0fBc1IbsGKX0QvKHaUn8L2SltKwekqkPBk8yPv6GpJWW9cEtEmLcwUJhSEqIqBqSCZUL6hdI6omoFW6JTwYXTGbD7QHR2gG4xbnJBWbEICmjnZAsMpMLTJ+H5AQ1QRJnJheYPg/JZboGiW2ZXGDmAiQd1A7ZqM4F01qC5Am9huyXwgX1O2R9NARZVOWCMgfZWxqEx7hi8SRLHYPHAAXgsaDoFueWri7Ao5/uwStqhDQtZETg9ZSuw4c9Mzk5HYeP+9QMWTwOYdGG7ArtgUt0etw0wnDMauzbTDSBbKdoPbJExjRFZ4Y2GY7F5n5opqkr2ucIsuwguoWMf4rKHZpqGKrGHVpoFhnPiWgf0hYVw+ICYzzNUGJIO01ERe8gTCncj6VMIG0jJTUjJTGqc18mt5Fym5YV98OxxDTTl6HNI6WcHIeQ8tOwfJlfE3BcIKELKXYOCTh6ikgofY9CVFBGFQpwhLIcQF4N5FKHPBpJsn8IKzlKHuWdyOnFLvLTMAJ/54vJX9nFIXi1bafcSk92wOXhmc2Ux9b6lruPAsHgm8cdrY0VJPsPoQz7gruOhR8AAAAASUVORK5CYII="
+                         alt=" " class="layout-header-service-avatar">
+                </a>
+            </li>
+            <li class="layout-header-service-item layout-header-service-cart" id="layoutHeaderCart">
+                <a class="layout-header-service-link" href="//cart.meizu.com" data-mtype="wmz_public_yt_cart">
+                    <i class="layout-font layout-font-cart1"></i>
+                    <span class="layout-header-service-cart-num">0</span>
+                </a>
+            </li>
+        </ul>
+        <ul class="layout-header-nav clearfix" id="layoutHeaderNav">
+            <li class="layout-header-nav-item">
+                <a href="//store.meizu.com/index.html" class="layout-header-nav-link" data-mtype="wmz_public_yt_store">魅族商城</a>
+            </li>
+                <li class="layout-header-nav-item">
+                    <a href="https://lists.meizu.com/page/list/?categoryid=76&features=80%3A27057%2C27058%2C27059%2C23954%2C23955" class="layout-header-nav-link"
+                       data-mtype="wmz_public_yt_custom_1">魅族手机</a>
+                </li>
+                <li class="layout-header-nav-item">
+                    <a href="https://lists.meizu.com/page/list/?categoryid=76&features=80%3A24243%2C23669%2C26153%2C26604%2C28004%2C24475%2C26650%2C26651%2C24634%2C22463" class="layout-header-nav-link"
+                       data-mtype="wmz_public_yt_custom_2">魅蓝手机</a>
+                </li>
+                <li class="layout-header-nav-item">
+                    <a href="https://lists.meizu.com/page/list/?categoryid=231&features=192%3A1" class="layout-header-nav-link"
+                       data-mtype="wmz_public_yt_custom_3">魅族声学</a>
+                </li>
+                <li class="layout-header-nav-item">
+                    <a href="https://lists.meizu.com/page/list/?categoryid=153" class="layout-header-nav-link"
+                       data-mtype="wmz_public_yt_custom_4">智能·配件</a>
+                </li>
+                <li class="layout-header-nav-item">
+                    <a href="https://lists.meizu.com/page/list/?categoryid=222" class="layout-header-nav-link"
+                       data-mtype="wmz_public_yt_custom_5">生活周边</a>
+                </li>
+            <li class="layout-header-nav-item">
+                <a href="http://care.meizu.com/" class="layout-header-nav-link" target="_blank"
+                   data-mtype="wmz_public_yt_service">服务</a>
+            </li>
+            <li class="layout-header-nav-item">
+                <a href="http://retail.meizu.com/index.html" class="layout-header-nav-link" target="_blank"
+                   data-mtype="wmz_public_yt_offstore">专卖店</a>
+            </li>
+            <li class="layout-header-nav-item">
+                <a href="http://www.flyme.cn/" class="layout-header-nav-link" target="_blank"
+                   data-mtype="wmz_public_yt_flyme">Flyme</a>
+            </li>
+            <li class="layout-header-nav-item">
+                <a href="//bbs.meizu.cn/" class="layout-header-nav-link" target="_blank" data-mtype="wmz_public_yt_bbs">社区</a>
+            </li>
+        </ul>
+        <div class="layout-header-nav-downmenu" id="layoutHeaderNavDownmenu"></div>
+    </div>
+</header>
+
+
+        <!--下面是模板标签，不可删除-->
+        <main class="wrapper page-detail">
+            <div class="container">
+                <section class="crumbs clearfix">
+                            <a data-mtype="store_de_mbx_1" href="http://store.meizu.com/index.html">首页</a>&nbsp;&gt;&nbsp;
+                            <a class="ellipsis crumbs-title">魅蓝 S6</a>
+                </section>
+                <section class="row">
+                    <div class="preview" id="preview">
+                        <div class="preview-booth">
+                            <a href="javascript:;" id="J_imgBooth">
+                                <img src="//openfile.meizu.com/group1/M00/03/00/Cgbj0Vpe--6AUAVIAAjLc7moXjw026.png680x680.jpg" height="375" width="375"
+                                     alt="">
+                            </a>
+                        </div>
+                        <ul class="preview-thumb clearfix" id="J_previewThumb">
+                                <li class="current">
+                                    <a data-mtype="store_de_tp_1" href="#"><img
+                                            src="//openfile.meizu.com/group1/M00/03/00/Cgbj0Vpe--6AUAVIAAjLc7moXjw026.png120x120.jpg" width="75" height="75"></a>
+                                </li>
+                                <li >
+                                    <a data-mtype="store_de_tp_2" href="#"><img
+                                            src="//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe--mAS8YFAAW2F26p0h4069.png120x120.jpg" width="75" height="75"></a>
+                                </li>
+                                <li >
+                                    <a data-mtype="store_de_tp_3" href="#"><img
+                                            src="//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe-_CAVa-mAASCWc4u51k545.png120x120.jpg" width="75" height="75"></a>
+                                </li>
+                                <li >
+                                    <a data-mtype="store_de_tp_4" href="#"><img
+                                            src="//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe--iAF6XFAAHWGp1kOcg150.png120x120.jpg" width="75" height="75"></a>
+                                </li>
+                        </ul>
+                        <div class="preview-action">
+                            <a class="vm-favorite" data-mtype="store_de_favorite" id="J_favorite" href="javascript:;"><i class="iconfont icon-favorite"></i>收藏 </a>
+                               <a class="compare-btn-list" id="J_compare" data-mtype="store_de_compare"><i class="iconfont icon-duibi compare-duibi"></i><span>对比</span></a>
+                        </div>
+                    </div>
+                    <div class="property" id="property">
+                            <div class="property-hd">
+                                <h1>魅蓝 S6</h1>
+
+                                <p class="mod-info active">领券立减50元，享6期免息</p>
+                            </div>
+                            <div class="property-sell">
+                                <dl class="property-sell-price clearfix">
+                                    <dt class="vm-metatit" id="J_discountTag">价<span class="s-space"></span><span
+                                            class="s-space"></span>格：
+                                    </dt>
+                                    <dd>
+                                        <div class="mod-price">
+                                            <small>¥</small>
+                                            <span id="J_price" class="vm-money"></span>
+                                        </div>
+                                        <div class="mod-original" id="J_originalPrice" style="display:none;"></div>
+                                        <div class="mod-activity">
+                                        </div>
+                                        <div class="mod-countdown" id="J_discountCountDown" style="display:none;">
+                                        </div>
+                                    </dd>
+                                </dl>
+                                <dl class="property-sell-app clearfix" id="J_propertySellAppPrice" style="display: none">
+                                    <dt class="vm-metatit" id="J_appTag">优<span class="s-space"></span><span class="s-space"></span>惠：</dt>
+                                    <dd>
+                                        <div class="mod-app-tip" id="J_appTip" style="display:none;">
+                                            <p>APP下单</p>
+                                            <p class="vm-money">省</p>
+                                            <p id="J_appPrice" class="vm-money"></p>
+                                            <p class="vm-money">元</p>
+                                        </div>
+                                    </dd>
+                                </dl>
+                                <dl class="property-sell-coupon clearfix" id="J_prodPromo" style="display:none;">
+                                    <dt class="vm-metatit">领<span class="s-space"></span><span class="s-space"></span>券：
+                                    </dt>
+                                    <dd>
+                                        <p id="J_promoInner">
+                                        </p>
+                                        <a class="vm-more" data-mtype="store_de_coupon_more" id="J_promoMore" href="#">更多></a>
+                                    </dd>
+                                </dl>
+                            </div>
+                            <div class="property-set">
+                                    <dl class="property-set-sale" data-property="网络类型">
+                                        <dt class="vm-metatit">网络类型：</dt>
+                                        <dd class="clearfix">
+                                                <a data-value="14:18238"
+                                                   
+                                                   data-mtype="store_de_sp_1_1" href="#"
+                                                   title="全网通公开版">
+                                                        <span>全网通公开版</span>
+                                                </a>
+                                        </dd>
+                                    </dl>
+                                    <dl class="property-set-sale" data-property="颜色分类">
+                                        <dt class="vm-metatit">颜色分类：</dt>
+                                        <dd class="clearfix">
+                                                <a data-value="3:14286"
+                                                   class="vm-sale-img"
+                                                   data-mtype="store_de_sp_2_1" href="#"
+                                                   title="香槟金">
+                                                            <img src="//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe-_yAFtuLAAw27mVWra0383.png80x80.png" width="32" height="32">
+                                                        <span>香槟金</span>
+                                                </a>
+                                                <a data-value="3:17496"
+                                                   class="vm-sale-img"
+                                                   data-mtype="store_de_sp_2_2" href="#"
+                                                   title="磨砂黑">
+                                                            <img src="//openfile.meizu.com/group1/M00/03/00/Cgbj0Vpe--mAMyFWAAg-KcLUImc701.png80x80.png" width="32" height="32">
+                                                        <span>磨砂黑</span>
+                                                </a>
+                                                <a data-value="3:18412"
+                                                   class="vm-sale-img"
+                                                   data-mtype="store_de_sp_2_3" href="#"
+                                                   title="月光银">
+                                                            <img src="//openfile.meizu.com/group1/M00/02/F4/Cgbj0Fpe_CGAcgyOAAh0R9PxK8Y800.png80x80.png" width="32" height="32">
+                                                        <span>月光银</span>
+                                                </a>
+                                                <a data-value="3:26154"
+                                                   class="vm-sale-img"
+                                                   data-mtype="store_de_sp_2_4" href="#"
+                                                   title="淡钴蓝">
+                                                            <img src="//openfile.meizu.com/group1/M00/02/F4/Cgbj0Fpe_A6AZLYIAAwckbZIp2U942.png80x80.png" width="32" height="32">
+                                                        <span>淡钴蓝</span>
+                                                </a>
+                                        </dd>
+                                    </dl>
+                                    <dl class="property-set-sale" data-property="内存容量">
+                                        <dt class="vm-metatit">内存容量：</dt>
+                                        <dd class="clearfix">
+                                                <a data-value="13:21089"
+                                                   
+                                                   data-mtype="store_de_sp_3_1" href="#"
+                                                   title="3GB+32GB">
+                                                        <span>3GB+32GB</span>
+                                                </a>
+                                                <a data-value="13:26155"
+                                                   
+                                                   data-mtype="store_de_sp_3_2" href="#"
+                                                   title="3GB+64GB">
+                                                        <span>3GB+64GB</span>
+                                                </a>
+                                        </dd>
+                                    </dl>
+                                    <dl class="property-set-package" id="propertyPackage" data-property="套餐">
+                                        <dt class="vm-metatit">套<span class="s-space"></span><span class="s-space"></span>餐：</dt>
+                                        <dd class="package">
+                                            <div class="package-tab clearfix" id="J_packageTab" data-property="套餐">
+                                                    <a data-mtype="store_de_tc_1" data-value="" href="#" title="官方标配">
+                                                            <p class="vm-text ">官方标配<span class="vm-text-standard">无优惠</span></p>
+                                                    </a>
+                                                    <a data-mtype="store_de_tc_2" data-value="221" href="#" title="优惠套餐一">
+                                                            <p class="vm-text ">优惠套餐一<span class="vm-text-standard">无优惠</span></p>
+                                                    </a>
+                                                    <a data-mtype="store_de_tc_3" data-value="230" href="#" title="碎屏保套餐">
+                                                            <p class="vm-text ">碎屏保套餐<span class="vm-text-standard">无优惠</span></p>
+                                                    </a>
+                                                    <a data-mtype="store_de_tc_4" data-value="209" href="#" title="套餐三">
+                                                            <p class="vm-text ">套餐三<span class="vm-text-standard">无优惠</span></p>
+                                                    </a>
+                                            </div>
+                                            <div class="package-content hide" id="J_packageContent" style="display: none;">
+                                                <span class="s-triangle" id="J_triangle"></span>
+                                                <div class="mod-bd" id="J_packageBody"></div>
+                                            </div>
+                                        </dd>
+                                    </dl>
+                            </div>
+                            <div class="property-service">
+                                    <dl class="property-service-item clearfix">
+                                        <dt class="vm-metatit">支<span class="s-space"></span><span class="s-space"></span>持：
+                                        </dt>
+                                        <dd class="mod-bd" id="J_prodService">
+                                            <span><i
+                                                    class="icon icon-service"></i>花呗分期</span>
+                                            <span><a
+                                                    href="//store.meizu.com/marrive/summary.html" target="_blank"><i
+                                                    class="icon icon-service"></i>百城速达</a></span>
+                                                <span><i class="icon icon-service"></i>顺丰包邮</span>
+                                                <span><i class="icon icon-service"></i>7天无理由退货</span>
+                                        </dd>
+                                    </dl>
+                                <!--去掉百城速达判断-->
+                                    <dl class="property-service-suda clearfix" id="J_delivery">
+                                        <dt class="vm-metatit">配<span class="s-space"></span><span class="s-space"></span>送：</dt>
+                                        <dd class="mod-site clearfix">
+                                            <div id="site-selector" class="site-selector">
+                                                <div class="text"></div>
+                                                <div class="content"></div>
+                                            </div>
+                                                <span class="site-status" id="J_siteStatus">
+                                                </span>
+                                        </dd>
+                                    </dl>
+                                <!---->
+                                    <dl class="property-service-provider clearfix">
+                                        <dt class="vm-metatit">服<span class="s-space"></span><span class="s-space"></span>务：
+                                        </dt>
+                                        <dd class="clearfix">
+                                            <span id="J_installmentInfo"></span>
+                                                本商品由 魅族 负责发货并提供售后服务
+                                            <a class="vm-kefu" style="display: none;" data-mtype="store_de_kefu" id="J_kefu" href="javascript:;"><i class="iconfont-detail icon-kefu"></i><span>在线客服</span></a>
+                                        </dd>
+                                    </dl>
+                            </div>
+                                <div class="property-huabei clearfix">
+                                    <div class="vm-metatit">花呗分期：</div>
+                                    <div class="clearfix property-huabei-bd" id="J_huabeiBody">
+
+                                            <a data-value="3" class="prop" data-mtype="store_de_hb_3">
+                                                <span class="vm-periods">¥333×3期</span>
+                                                    <span class="vm-rate">(含手续费0.00/期)</span>
+                                            </a>
+                                            <a data-value="6" class="prop" data-mtype="store_de_hb_6">
+                                                <span class="vm-periods">¥166.5×6期</span>
+                                                    <span class="vm-rate">(含手续费0.00/期)</span>
+                                            </a>
+                                            <a data-value="12" class="prop" data-mtype="store_de_hb_12">
+                                                <span class="vm-periods">¥83.25×12期</span>
+                                                    <span class="vm-rate">(含手续费74.92/期)</span>
+                                            </a>
+                                    </div>
+                                    <a href="//hd.meizu.com/rules/huabei.html" target="_blank" class="vm-desc">
+                                        <i class="iconfont-detail icon-question"></i>
+                                        什么是花呗分期
+                                    </a>
+                                </div>
+                            <div class="property-buy">
+                                <p class="vm-message" id="J_message">
+                                </p>
+                                <dl class="property-buy-quantity">
+                                    <dt class="vm-metatit">数<span class="s-space"></span><span class="s-space"></span>量：
+                                    </dt>
+                                    <dd class="clearfix">
+                                        <div class="mod-control">
+                                            <a title="减少" href="javascript:;" class="vm-minus">-</a>
+                                            <input type="text" value="1" id="J_quantity"
+                                                   data-max="2">
+                                            <a title="增加" href="javascript:;" class="vm-plus">+</a>
+                                        </div>
+                                    </dd>
+                                </dl>
+                                <div class="property-buy-action">
+
+                                    <a data-mtype="store_de_buy" href="javascript:void(0);" id="J_btnBuy" class="btn btn-danger btn-lg mr20 "><i></i>立即购买</a>
+                                    <a data-mtype="store_de_cart" href="javascript:void(0);" id="J_btnAddCart" class="btn btn-primary btn-lg hide"><i></i>加入购物车</a>
+                                    <a href="javascript:void(0);" data-mtype="store_de_remind" id="J_btnRemind" class="btn btn-primary btn-lg hide"><i></i>开售提醒</a>
+                                    <span class="vm-service" id="J_panicBuyingWrap"></span>
+                                </div>
+                            </div>
+                        <div class="prod-addition">
+                            <input type="hidden" id="servertime" value="1530184655959">
+
+                            <div class="layer-promo" id="layerPromo" style="display:none;">
+                                <div class="layer-promo-hd">
+                                    领取优惠券
+                                    <a class="vm-close" id="J_promoClose" href="#">
+                                        ╳
+                                    </a>
+                                </div>
+                                <div class="layer-promo-bd">
+                                    <dl class="discount-coupon" id="J_discountCoupon">
+                                    </dl>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            <div class="detail-tab anim detail-fast-float" id="detailFast">
+                <div class="fixed-container">
+                    <ul class="clearfix">
+                        <li class="current">
+                            <a href="#">商品详情</a>
+                        </li>
+                        <li>
+                            <a href="#">规格参数</a>
+                        </li>
+                            <li>
+                                <a href="#">常见问题</a>
+                            </li>
+                    </ul>
+                    <div class="shortcut trans">
+                        <div class="shortcut-con trans">
+                            <div class="mod-buy">
+                                <a data-mtype="store_de_buynow" href="javascript:void(0);" id="J_btnBuyShortcut" class="btn btn-primary btn-lg"><i></i>现在购买</a>
+                            </div>
+                            <div class="mod-total trans">
+                            魅蓝 S6<em class="vm-price" id="J_totalPriceShortcut"></em>
+                                <p class="vm-title" id="J_summaryName">
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mod-title">
+
+                    </div>
+                </div>
+            </div>
+            <section class="row detail" id="detail">
+                <div style="height:62px;">
+                    <div class="detail-tab" id="detailTabFixed">
+                        <div class="fixed-container">
+                            <ul class="clearfix">
+                                <li class="current">
+                                    <a data-mtype="store_de_xq_1" href="#">商品详情</a>
+                                </li>
+                                <li>
+                                    <a data-mtype="store_de_xq_2" href="#">规格参数</a>
+                                </li>
+                                    <li>
+                                        <a data-mtype="store_de_xq_3" href="#">常见问题</a>
+                                    </li>
+                            </ul>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="detail-content container">
+                    <div class="introduce" id="introduce" style="display:block;">
+                                <a href="//detail.meizu.com/item/spx.html" target="_blank">
+                                    <img class="lazy" data-original="//openfile.meizu.com/group1/M00/03/86/Cgbj0FqzftuAFRuEAAFDN8UQ57I852.jpg" width="1240" alt="">
+                                </a>
+                                <img class="lazy" data-original="//openfile.meizu.com/group1/M00/03/0C/Cgbj0Vphe2eAY3S7AADSTjzY6Z4774.jpg" width="1240" alt="">
+                                <img class="lazy" data-original="//openfile.meizu.com/group1/M00/02/F2/Cgbj0Fpe-5iAZKobAATAMSt4yXE391.jpg" width="1240" alt="">
+                                <img class="lazy" data-original="//openfile.meizu.com/group1/M00/02/F2/Cgbj0Fpe-5iAIqlhAAJKdyC-uOg779.jpg" width="1240" alt="">
+                                <img class="lazy" data-original="//openfile.meizu.com/group1/M00/03/1B/Cgbj0Vpyy1yAMpofAAZ0E31MqPI124.jpg" width="1240" alt="">
+                                <img class="lazy" data-original="//openfile.meizu.com/group1/M00/03/00/Cgbj0Vpe-5mAXovPAAG221gsQy4273.jpg" width="1240" alt="">
+                                <img class="lazy" data-original="//openfile.meizu.com/group1/M00/02/F2/Cgbj0Fpe-5mAf7vDAAFk1qTT7mc850.jpg" width="1240" alt="">
+                                <img class="lazy" data-original="//openfile.meizu.com/group1/M00/02/F2/Cgbj0Fpe-5qACY4RAAKCfAia9ro832.jpg" width="1240" alt="">
+                                <img class="lazy" data-original="//openfile.meizu.com/group1/M00/03/00/Cgbj0Vpe-5qAMnL7AAL5-Dk4l1k335.jpg" width="1240" alt="">
+                                <img class="lazy" data-original="//openfile.meizu.com/group1/M00/03/00/Cgbj0Vpe-5uAAv4SAAFUitPZs1o273.jpg" width="1240" alt="">
+                                <img class="lazy" data-original="//openfile.meizu.com/group1/M00/02/F2/Cgbj0Fpe-5yAa_rPAAU-YGR-MZw243.jpg" width="1240" alt="">
+                                <img class="lazy" data-original="//openfile.meizu.com/group1/M00/02/F2/Cgbj0Fpe-52AagmFAAYICSG0dpo377.jpg" width="1240" alt="">
+                                <img class="lazy" data-original="//openfile.meizu.com/group1/M00/03/3C/Cgbj0FqmJv6APxbfAAI0e0Z10rk834.jpg" width="1240" alt="">
+                                <a href="//detail.meizu.com/item/meilans6_fashion_shell.html" target="_blank">
+                                    <img class="lazy" data-original="//openfile.meizu.com/group1/M00/03/00/Cgbj0Vpe-52Abk3yAAPskAH3nDM279.jpg" width="1240" alt="">
+                                </a>
+                                <img class="lazy" data-original="//openfile.meizu.com/group1/M00/03/0D/Cgbj0Fpyy1uAKriqAADPrfc_fGM520.jpg" width="1240" alt="">
+                    </div>
+                    <div class="standard" id="standard">
+                        <table class="standard-table">
+                            <tbody>
+                                    <tr class="standard-table-group">
+                                        <th colspan="2">
+                                            基础信息
+                                        </th>
+                                    </tr>
+                                        <tr>
+                                            <th>
+                                            品牌
+                                            </th>
+                                            <td>
+                                            魅族
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th>
+                                            型号
+                                            </th>
+                                            <td>
+                                            魅蓝S6
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th>
+                                            尺寸
+                                            </th>
+                                            <td>
+                                            152mm（长）x 72.5mm（宽）x 8mm（厚）
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th>
+                                            电池容量
+                                            </th>
+                                            <td>
+                                            3000mAh
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th>
+                                            重量
+                                            </th>
+                                            <td>
+                                            160g
+                                            </td>
+                                        </tr>
+                                    <tr class="standard-table-group">
+                                        <th colspan="2">
+                                            屏幕
+                                        </th>
+                                    </tr>
+                                        <tr>
+                                            <th>
+                                            屏幕尺寸
+                                            </th>
+                                            <td>
+                                            5.7英寸
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th>
+                                            对比度
+                                            </th>
+                                            <td>
+                                            1000:1
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th>
+                                            分辨率
+                                            </th>
+                                            <td>
+                                            1440x720
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th>
+                                            PPI
+                                            </th>
+                                            <td>
+                                            282
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th>
+                                            亮度
+                                            </th>
+                                            <td>
+                                             450cd/m²（典型值）
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th>
+                                            制造工艺
+                                            </th>
+                                            <td>
+                                            In-Cell 全贴合
+                                            </td>
+                                        </tr>
+                                    <tr class="standard-table-group">
+                                        <th colspan="2">
+                                            容量
+                                        </th>
+                                    </tr>
+                                        <tr>
+                                            <th>
+                                            运行内存（RAM）
+                                            </th>
+                                            <td>
+                                            3GB
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th>
+                                            机身内存
+                                            </th>
+                                            <td>
+                                            32GB<br>64GB
+                                            </td>
+                                        </tr>
+                                    <tr class="standard-table-group">
+                                        <th colspan="2">
+                                            处理器
+                                        </th>
+                                    </tr>
+                                        <tr>
+                                            <th>
+                                            CPU
+                                            </th>
+                                            <td>
+                                            Exynos 7872 高性能处理器
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th>
+                                            GPU
+                                            </th>
+                                            <td>
+                                            Mali-G71 图形处理器
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th>
+                                            CPU频率
+                                            </th>
+                                            <td>
+                                            ARM® Cortex®-A73™ 2.0GHz x 2+<br>ARM® Cortex®-A53™ 1.6GHz x 4
+                                            </td>
+                                        </tr>
+                                    <tr class="standard-table-group">
+                                        <th colspan="2">
+                                            摄像
+                                        </th>
+                                    </tr>
+                                        <tr>
+                                            <th>
+                                            前置摄像头
+                                            </th>
+                                            <td>
+                                            Face AE 面部亮度智能增强<br>800万像素<br>ƒ/2.0 光圈<br>4 片式镜头<br>ArcSoft® 美颜算法 自适应美肤技术
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th>
+                                            后置摄像头
+                                            </th>
+                                            <td>
+                                            1600万像素<br>高速 PDAF 相位对焦<br>ƒ/2.0 超大光圈<br>5 片式镜头<br>连拍模式<br>双色温双闪光灯<br>全景模式
+                                            </td>
+                                        </tr>
+                                    <tr class="standard-table-group">
+                                        <th colspan="2">
+                                            mTouch
+                                        </th>
+                                    </tr>
+                                        <tr>
+                                            <th>
+                                            响应速度
+                                            </th>
+                                            <td>
+                                            0.2s
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th>
+                                            识别角度
+                                            </th>
+                                            <td>
+                                            360°
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th>
+                                            指纹组数
+                                            </th>
+                                            <td>
+                                            5组
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th>
+                                            mTouch传感器
+                                            </th>
+                                            <td>
+                                            电容式触摸传感器
+                                            </td>
+                                        </tr>
+                                    <tr class="standard-table-group">
+                                        <th colspan="2">
+                                            运营商与制式
+                                        </th>
+                                    </tr>
+                                        <tr>
+                                            <th>
+                                            全网通
+                                            </th>
+                                            <td>
+                                            全网通（公开版、移动定制版、电信版）<br>移动 4G TD-LTE<br>联通/电信 4G TD/FDD-LTE<br>移动 3G TD-SCDMA<br>联通 3G WCDMA<br>电信 3G EVDO<br>移动/联通 2G GSM<br>电信 2G CDMA
+                                            </td>
+                                        </tr>
+                                    <tr class="standard-table-group">
+                                        <th colspan="2">
+                                            其他参数
+                                        </th>
+                                    </tr>
+                                        <tr>
+                                            <th>
+                                            WLAN功能
+                                            </th>
+                                            <td>
+                                            支持 5GHz 和 2.4GHz 频段<br>802.11 a/b/g/n 无线网络
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th>
+                                            蓝牙
+                                            </th>
+                                            <td>
+                                            支持 BLE<br>Bluetooth 4.2
+                                            </td>
+                                        </tr>
+                                    <tr class="standard-table-group">
+                                        <th colspan="2">
+                                            系统与应用
+                                        </th>
+                                    </tr>
+                                        <tr>
+                                            <th>
+                                            传感器
+                                            </th>
+                                            <td>
+                                            重力感应<br>红外距离感应<br>陀螺仪<br>环境光度感应<br>触摸感应<br>电子罗盘<br>线性马达<br>压力感应
+                                            </td>
+                                        </tr>
+                                    <tr class="standard-table-group">
+                                        <th colspan="2">
+                                            包装清单
+                                        </th>
+                                    </tr>
+                                        <tr>
+                                            <th>
+                                            包装清单
+                                            </th>
+                                            <td>
+                                            主机 x 1<br>电源适配器 x 1<br>保修证书 x 1<br>SIM卡顶针 x 1<br>数据线 x 1
+                                            </td>
+                                        </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                        <div class="question" id="question">
+                            <div class="question-list">
+                                <h2>热门回答</h2>
+                                    <dl class="mod-item">
+                                        <dt class="vm-question">
+                                        魅蓝 S6 有哪几种颜色？机身材质？
+                                        </dt>
+                                        <dd class="vm-answer">
+                                            磨砂黑、月光银、香槟金、淡钴蓝，全金属纳米注塑。
+                                        </dd>
+                                    </dl>
+                                    <dl class="mod-item">
+                                        <dt class="vm-question">
+                                        魅蓝 S6采用了什么接口?
+                                        </dt>
+                                        <dd class="vm-answer">
+                                            魅蓝 S6采用了micro USB的接口。
+                                        </dd>
+                                    </dl>
+                                    <dl class="mod-item">
+                                        <dt class="vm-question">
+                                        魅蓝S6可以应用分身吗？怎么实现双开呢？
+                                        </dt>
+                                        <dd class="vm-answer">
+                                            建议您可以先使用第三方软件如：“双开助手”“LBE平行空间”达到应用分身的效果。<br>这次以“双开助手”为例子，教魅友使用，方便工作与生活的帐号分开使用，减少多帐号的烦恼。<br>1、打开应用商店，下载“双开助手”；<br>2、安装完成后打开“双开助手”；<br>3、点击“添加”按钮；<br>4、选择要双开的APP即可； <br>5、长按APP图标可删除已选择双开的APP。
+                                        </dd>
+                                    </dl>
+                                    <dl class="mod-item">
+                                        <dt class="vm-question">
+                                        魅蓝 S6 是否支持指纹识别？指纹位置？
+                                        </dt>
+                                        <dd class="vm-answer">
+                                            支持 0.2s 指纹识别解锁，支持支付宝和微信指纹支付，机身右侧。
+                                        </dd>
+                                    </dl>
+                                    <dl class="mod-item">
+                                        <dt class="vm-question">
+                                        魅蓝 S6 是否保留 mBack 实体按键？
+                                        </dt>
+                                        <dd class="vm-answer">
+                                            无实体 Home 键，采用更人性化的 Super mBack 交互。
+                                        </dd>
+                                    </dl>
+                                    <dl class="mod-item">
+                                        <dt class="vm-question">
+                                        Super mBack 的使用方式是否和 mBack 一致？
+                                        </dt>
+                                        <dd class="vm-answer">
+                                            操作逻辑一致：轻按 Back，重按 Home，长按锁屏。
+                                        </dd>
+                                    </dl>
+                                    <dl class="mod-item">
+                                        <dt class="vm-question">
+                                        魅蓝 S6 是否是全面屏？屏幕长宽比是多少？
+                                        </dt>
+                                        <dd class="vm-answer">
+                                            全面屏，18:9。
+                                        </dd>
+                                    </dl>
+                                    <dl class="mod-item">
+                                        <dt class="vm-question">
+                                        魅蓝 S6屏幕多大？分辨率是多少？屏幕采用什么制造工艺？
+                                        </dt>
+                                        <dd class="vm-answer">
+                                            5.7 英寸，1440 X 720，制造工艺：In-Cell 全贴合。
+                                        </dd>
+                                    </dl>
+                                    <dl class="mod-item">
+                                        <dt class="vm-question">
+                                        魅蓝 S6 支持的网络有哪些？是否具备 VoLTE 语音通话技术？
+                                        </dt>
+                                        <dd class="vm-answer">
+                                            支持中国移动、中国联通、中国电信三大运营商网络，支持 VoLTE 语音通话技术。
+                                        </dd>
+                                    </dl>
+                                    <dl class="mod-item">
+                                        <dt class="vm-question">
+                                        魅蓝 S6 的 CPU 是什么型号？ 
+                                        </dt>
+                                        <dd class="vm-answer">
+                                            魅蓝 S6 采用三星 Exynos 7872 高性能处理器。
+                                        </dd>
+                                    </dl>
+                                    <dl class="mod-item">
+                                        <dt class="vm-question">
+                                        魅蓝 S6 存储容量分别为多少？是否支持存储卡拓展？ 
+                                        </dt>
+                                        <dd class="vm-answer">
+                                            32GB/64GB，最高支持 128G	存储卡。
+                                        </dd>
+                                    </dl>
+                                    <dl class="mod-item">
+                                        <dt class="vm-question">
+                                        魅蓝 S6 后置摄像头是多少像素？前置摄像头是多少像素？ 
+                                        </dt>
+                                        <dd class="vm-answer">
+                                            后置摄像头： 1600 万像素，ƒ/2.0 大光圈，双色温双闪光灯。 <br>前置摄像头： 800 万像素，ƒ/2.0 光圈，ArcSoft® 美颜算法，自适应美肤技术。<br>
+                                        </dd>
+                                    </dl>
+                                    <dl class="mod-item">
+                                        <dt class="vm-question">
+                                        魅蓝 S6 的电池规格？是否支持 mCharge 安全快充？
+                                        </dt>
+                                        <dd class="vm-answer">
+                                            3000mAh（典型值），提供 18W 高功率 mCharge 快充。
+                                        </dd>
+                                    </dl>
+                            </div>
+                        </div>
+                </div>
+            </section>
+            <section class="detail-recommend container" id="detailRecommend"></section>
+        </main>
+
+        <script type="text/javascript">
+            //商品源数据
+            var MZ = {};
+                MZ.modelData = {"itemId":11382,"itemNumber":"meilans6","type":1,"recommend":"14:18238;3:17496;13:21089+0","activeStatus":1,"shelveTime":null,"supportFastArrival":true,"sku":{"14:18238;3:14286;13:26155+0":{"cspuId":2465,"skuId":6208,"type":1,"shelveTime":null,"shelfTime":null,"nextShelveTime":null,"saleStatus":null,"activeStatus":1,"isSupportCart":true,"price":1199.00,"originPrice":1199.00,"names":"魅蓝 S6 全网通公开版 香槟金 3GB+64GB","itemName":"魅蓝 S6","attributes":"全网通公开版 香槟金 3GB+64GB","images":["//openfile.meizu.com/group1/M00/03/01/Cgbj0Vpe_ACAHab5AA1MtHRFPes834.png","//openfile.meizu.com/group1/M00/03/01/Cgbj0Vpe-_mAehigAAqasU5-N7M416.png","//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe_ACAKzlZAATc-eLbrAc456.png","//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe-_mAEaP3AAJN7Byq7io719.png"],"stock":1,"packageIds":[0,230],"buyButton":"售罄","isPreSale":0,"delaySendDayNum":null,"huabei":[{"eachPriceCent":399.66,"period":3,"eachRatePriceCent":0.0},{"eachPriceCent":199.83,"period":6,"eachRatePriceCent":0.0},{"eachPriceCent":107.4,"period":12,"eachRatePriceCent":7.49}],"appPrice":0,"priceCent":119900},"14:18238;3:26154;13:26155+0":{"cspuId":2468,"skuId":6214,"type":1,"shelveTime":null,"shelfTime":null,"nextShelveTime":null,"saleStatus":null,"activeStatus":1,"isSupportCart":true,"price":1199.00,"originPrice":1199.00,"names":"魅蓝 S6 全网通公开版 淡钴蓝 3GB+64GB","itemName":"魅蓝 S6","attributes":"全网通公开版 淡钴蓝 3GB+64GB","images":["//openfile.meizu.com/group1/M00/02/F4/Cgbj0Fpe_BKAQlseAA0cvfYq5VY908.png","//openfile.meizu.com/group1/M00/02/F4/Cgbj0Fpe_AqAch5tAArXkC5ZDHc768.png","//openfile.meizu.com/group1/M00/03/01/Cgbj0Vpe_BGAYaejAASTA4pWdOs755.png","//openfile.meizu.com/group1/M00/03/01/Cgbj0Vpe_AqAXJePAAJGqMgJ6NA524.png"],"stock":1,"packageIds":[0,230],"buyButton":"售罄","isPreSale":0,"delaySendDayNum":null,"huabei":[{"eachPriceCent":399.66,"period":3,"eachRatePriceCent":0.0},{"eachPriceCent":199.83,"period":6,"eachRatePriceCent":0.0},{"eachPriceCent":107.4,"period":12,"eachRatePriceCent":7.49}],"appPrice":0,"priceCent":119900},"14:18238;3:14286;13:21089+221":{"cspuId":2450,"skuId":6867,"type":1,"shelveTime":null,"shelfTime":null,"nextShelveTime":null,"saleStatus":null,"activeStatus":1,"isSupportCart":true,"price":999.00,"originPrice":999.00,"names":"魅蓝 S6 全网通公开版 香槟金 3GB+32GB","itemName":"魅蓝 S6","attributes":"全网通公开版 香槟金 3GB+32GB","images":["//openfile.meizu.com/group1/M00/03/01/Cgbj0Vpe_ACAHab5AA1MtHRFPes834.png","//openfile.meizu.com/group1/M00/03/01/Cgbj0Vpe-_mAehigAAqasU5-N7M416.png","//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe_ACAKzlZAATc-eLbrAc456.png","//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe-_mAEaP3AAJN7Byq7io719.png"],"stock":1,"packageIds":[0,221,230,209],"buyButton":"售罄","isPreSale":0,"delaySendDayNum":null,"huabei":[{"eachPriceCent":351.33,"period":3,"eachRatePriceCent":0.0},{"eachPriceCent":175.66,"period":6,"eachRatePriceCent":0.0},{"eachPriceCent":94.41,"period":12,"eachRatePriceCent":6.58}],"appPrice":0,"priceCent":99900},"14:18238;3:14286;13:21089+230":{"cspuId":2450,"skuId":6995,"type":1,"shelveTime":null,"shelfTime":null,"nextShelveTime":null,"saleStatus":null,"activeStatus":1,"isSupportCart":true,"price":999.00,"originPrice":999.00,"names":"魅蓝 S6 全网通公开版 香槟金 3GB+32GB","itemName":"魅蓝 S6","attributes":"全网通公开版 香槟金 3GB+32GB","images":["//openfile.meizu.com/group1/M00/03/01/Cgbj0Vpe_ACAHab5AA1MtHRFPes834.png","//openfile.meizu.com/group1/M00/03/01/Cgbj0Vpe-_mAehigAAqasU5-N7M416.png","//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe_ACAKzlZAATc-eLbrAc456.png","//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe-_mAEaP3AAJN7Byq7io719.png"],"stock":1,"packageIds":[0,221,230,209],"buyButton":"售罄","isPreSale":0,"delaySendDayNum":null,"huabei":[{"eachPriceCent":354.0,"period":3,"eachRatePriceCent":0.0},{"eachPriceCent":177.0,"period":6,"eachRatePriceCent":0.0},{"eachPriceCent":95.13,"period":12,"eachRatePriceCent":6.63}],"appPrice":0,"priceCent":99900},"14:18238;3:14286;13:21089+0":{"cspuId":2450,"skuId":6195,"type":1,"shelveTime":null,"shelfTime":null,"nextShelveTime":null,"saleStatus":null,"activeStatus":1,"isSupportCart":true,"price":999.00,"originPrice":999.00,"names":"魅蓝 S6 全网通公开版 香槟金 3GB+32GB","itemName":"魅蓝 S6","attributes":"全网通公开版 香槟金 3GB+32GB","images":["//openfile.meizu.com/group1/M00/03/01/Cgbj0Vpe_ACAHab5AA1MtHRFPes834.png","//openfile.meizu.com/group1/M00/03/01/Cgbj0Vpe-_mAehigAAqasU5-N7M416.png","//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe_ACAKzlZAATc-eLbrAc456.png","//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe-_mAEaP3AAJN7Byq7io719.png"],"stock":1,"packageIds":[0,221,230,209],"buyButton":"售罄","isPreSale":0,"delaySendDayNum":null,"huabei":[{"eachPriceCent":333.0,"period":3,"eachRatePriceCent":0.0},{"eachPriceCent":166.5,"period":6,"eachRatePriceCent":0.0},{"eachPriceCent":89.49,"period":12,"eachRatePriceCent":6.24}],"appPrice":0,"priceCent":99900},"14:18238;3:26154;13:21089+0":{"cspuId":2469,"skuId":6213,"type":1,"shelveTime":null,"shelfTime":null,"nextShelveTime":null,"saleStatus":null,"activeStatus":1,"isSupportCart":true,"price":999.00,"originPrice":999.00,"names":"魅蓝 S6 全网通公开版 淡钴蓝 3GB+32GB","itemName":"魅蓝 S6","attributes":"全网通公开版 淡钴蓝 3GB+32GB","images":["//openfile.meizu.com/group1/M00/02/F4/Cgbj0Fpe_BKAQlseAA0cvfYq5VY908.png","//openfile.meizu.com/group1/M00/02/F4/Cgbj0Fpe_AqAch5tAArXkC5ZDHc768.png","//openfile.meizu.com/group1/M00/03/01/Cgbj0Vpe_BGAYaejAASTA4pWdOs755.png","//openfile.meizu.com/group1/M00/03/01/Cgbj0Vpe_AqAXJePAAJGqMgJ6NA524.png"],"stock":1,"packageIds":[0,230],"buyButton":"售罄","isPreSale":0,"delaySendDayNum":null,"huabei":[{"eachPriceCent":333.0,"period":3,"eachRatePriceCent":0.0},{"eachPriceCent":166.5,"period":6,"eachRatePriceCent":0.0},{"eachPriceCent":89.49,"period":12,"eachRatePriceCent":6.24}],"appPrice":0,"priceCent":99900},"14:18238;3:17496;13:21089+209":{"cspuId":2471,"skuId":6420,"type":1,"shelveTime":null,"shelfTime":null,"nextShelveTime":null,"saleStatus":null,"activeStatus":1,"isSupportCart":true,"price":999.00,"originPrice":999.00,"names":"魅蓝 S6 全网通公开版 磨砂黑 3GB+32GB","itemName":"魅蓝 S6","attributes":"全网通公开版 磨砂黑 3GB+32GB","images":["//openfile.meizu.com/group1/M00/03/00/Cgbj0Vpe--6AUAVIAAjLc7moXjw026.png","//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe--mAS8YFAAW2F26p0h4069.png","//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe-_CAVa-mAASCWc4u51k545.png","//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe--iAF6XFAAHWGp1kOcg150.png"],"stock":1,"packageIds":[0,221,230,209],"buyButton":"售罄","isPreSale":0,"delaySendDayNum":null,"huabei":[{"eachPriceCent":362.66,"period":3,"eachRatePriceCent":0.0},{"eachPriceCent":181.33,"period":6,"eachRatePriceCent":0.0},{"eachPriceCent":97.46,"period":12,"eachRatePriceCent":6.8}],"appPrice":0,"priceCent":99900},"14:18238;3:26154;13:21089+230":{"cspuId":2469,"skuId":7915,"type":1,"shelveTime":null,"shelfTime":null,"nextShelveTime":null,"saleStatus":null,"activeStatus":1,"isSupportCart":true,"price":999.00,"originPrice":999.00,"names":"魅蓝 S6 全网通公开版 淡钴蓝 3GB+32GB","itemName":"魅蓝 S6","attributes":"全网通公开版 淡钴蓝 3GB+32GB","images":["//openfile.meizu.com/group1/M00/02/F4/Cgbj0Fpe_BKAQlseAA0cvfYq5VY908.png","//openfile.meizu.com/group1/M00/02/F4/Cgbj0Fpe_AqAch5tAArXkC5ZDHc768.png","//openfile.meizu.com/group1/M00/03/01/Cgbj0Vpe_BGAYaejAASTA4pWdOs755.png","//openfile.meizu.com/group1/M00/03/01/Cgbj0Vpe_AqAXJePAAJGqMgJ6NA524.png"],"stock":1,"packageIds":[0,230],"buyButton":"售罄","isPreSale":0,"delaySendDayNum":null,"huabei":[{"eachPriceCent":354.0,"period":3,"eachRatePriceCent":0.0},{"eachPriceCent":177.0,"period":6,"eachRatePriceCent":0.0},{"eachPriceCent":95.13,"period":12,"eachRatePriceCent":6.63}],"appPrice":0,"priceCent":99900},"14:18238;3:17496;13:26155+0":{"cspuId":2470,"skuId":6210,"type":1,"shelveTime":null,"shelfTime":null,"nextShelveTime":null,"saleStatus":null,"activeStatus":1,"isSupportCart":true,"price":1199.00,"originPrice":1199.00,"names":"魅蓝 S6 全网通公开版 磨砂黑 3GB+64GB","itemName":"魅蓝 S6","attributes":"全网通公开版 磨砂黑 3GB+64GB","images":["//openfile.meizu.com/group1/M00/03/00/Cgbj0Vpe--6AUAVIAAjLc7moXjw026.png","//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe--mAS8YFAAW2F26p0h4069.png","//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe-_CAVa-mAASCWc4u51k545.png","//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe--iAF6XFAAHWGp1kOcg150.png"],"stock":1,"packageIds":[0,221,230,222],"buyButton":"售罄","isPreSale":0,"delaySendDayNum":null,"huabei":[{"eachPriceCent":399.66,"period":3,"eachRatePriceCent":0.0},{"eachPriceCent":199.83,"period":6,"eachRatePriceCent":0.0},{"eachPriceCent":107.4,"period":12,"eachRatePriceCent":7.49}],"appPrice":0,"priceCent":119900},"14:18238;3:18412;13:26155+0":{"cspuId":2466,"skuId":6212,"type":1,"shelveTime":null,"shelfTime":null,"nextShelveTime":null,"saleStatus":null,"activeStatus":1,"isSupportCart":true,"price":1199.00,"originPrice":1199.00,"names":"魅蓝 S6 全网通公开版 月光银 3GB+64GB","itemName":"魅蓝 S6","attributes":"全网通公开版 月光银 3GB+64GB","images":["//openfile.meizu.com/group1/M00/02/F4/Cgbj0Fpe_CSADpnMAAj9ybOz_hU746.png","//openfile.meizu.com/group1/M00/02/F4/Cgbj0Fpe_B2AauJGAAWg2HBXgJI252.png","//openfile.meizu.com/group1/M00/03/02/Cgbj0Vpe_CSAHjXRAASNCtCu1Ls898.png","//openfile.meizu.com/group1/M00/03/02/Cgbj0Vpe_B2AeeSRAAHXA8COBgQ567.png"],"stock":1,"packageIds":[0,230],"buyButton":"售罄","isPreSale":0,"delaySendDayNum":null,"huabei":[{"eachPriceCent":399.66,"period":3,"eachRatePriceCent":0.0},{"eachPriceCent":199.83,"period":6,"eachRatePriceCent":0.0},{"eachPriceCent":107.4,"period":12,"eachRatePriceCent":7.49}],"appPrice":0,"priceCent":119900},"14:18238;3:17496;13:26155+221":{"cspuId":2470,"skuId":6870,"type":1,"shelveTime":null,"shelfTime":null,"nextShelveTime":null,"saleStatus":null,"activeStatus":1,"isSupportCart":true,"price":1199.00,"originPrice":1199.00,"names":"魅蓝 S6 全网通公开版 磨砂黑 3GB+64GB","itemName":"魅蓝 S6","attributes":"全网通公开版 磨砂黑 3GB+64GB","images":["//openfile.meizu.com/group1/M00/03/00/Cgbj0Vpe--6AUAVIAAjLc7moXjw026.png","//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe--mAS8YFAAW2F26p0h4069.png","//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe-_CAVa-mAASCWc4u51k545.png","//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe--iAF6XFAAHWGp1kOcg150.png"],"stock":1,"packageIds":[0,221,230,222],"buyButton":"售罄","isPreSale":0,"delaySendDayNum":null,"huabei":[{"eachPriceCent":418.0,"period":3,"eachRatePriceCent":0.0},{"eachPriceCent":209.0,"period":6,"eachRatePriceCent":0.0},{"eachPriceCent":112.33,"period":12,"eachRatePriceCent":7.83}],"appPrice":0,"priceCent":119900},"14:18238;3:17496;13:26155+222":{"cspuId":2470,"skuId":6871,"type":1,"shelveTime":null,"shelfTime":null,"nextShelveTime":null,"saleStatus":null,"activeStatus":1,"isSupportCart":true,"price":1199.00,"originPrice":1199.00,"names":"魅蓝 S6 全网通公开版 磨砂黑 3GB+64GB","itemName":"魅蓝 S6","attributes":"全网通公开版 磨砂黑 3GB+64GB","images":["//openfile.meizu.com/group1/M00/03/00/Cgbj0Vpe--6AUAVIAAjLc7moXjw026.png","//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe--mAS8YFAAW2F26p0h4069.png","//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe-_CAVa-mAASCWc4u51k545.png","//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe--iAF6XFAAHWGp1kOcg150.png"],"stock":1,"packageIds":[0,221,230,222],"buyButton":"售罄","isPreSale":0,"delaySendDayNum":null,"huabei":[{"eachPriceCent":432.66,"period":3,"eachRatePriceCent":0.0},{"eachPriceCent":216.33,"period":6,"eachRatePriceCent":0.0},{"eachPriceCent":116.27,"period":12,"eachRatePriceCent":8.11}],"appPrice":0,"priceCent":119900},"14:18238;3:18412;13:21089+230":{"cspuId":2467,"skuId":6999,"type":1,"shelveTime":null,"shelfTime":null,"nextShelveTime":null,"saleStatus":null,"activeStatus":1,"isSupportCart":true,"price":999.00,"originPrice":999.00,"names":"魅蓝 S6 全网通公开版 月光银 3GB+32GB","itemName":"魅蓝 S6","attributes":"全网通公开版 月光银 3GB+32GB","images":["//openfile.meizu.com/group1/M00/02/F4/Cgbj0Fpe_CSADpnMAAj9ybOz_hU746.png","//openfile.meizu.com/group1/M00/02/F4/Cgbj0Fpe_B2AauJGAAWg2HBXgJI252.png","//openfile.meizu.com/group1/M00/03/02/Cgbj0Vpe_CSAHjXRAASNCtCu1Ls898.png","//openfile.meizu.com/group1/M00/03/02/Cgbj0Vpe_B2AeeSRAAHXA8COBgQ567.png"],"stock":1,"packageIds":[0,230],"buyButton":"售罄","isPreSale":0,"delaySendDayNum":null,"huabei":[{"eachPriceCent":354.0,"period":3,"eachRatePriceCent":0.0},{"eachPriceCent":177.0,"period":6,"eachRatePriceCent":0.0},{"eachPriceCent":95.13,"period":12,"eachRatePriceCent":6.63}],"appPrice":0,"priceCent":99900},"14:18238;3:14286;13:21089+209":{"cspuId":2450,"skuId":6416,"type":1,"shelveTime":null,"shelfTime":null,"nextShelveTime":null,"saleStatus":null,"activeStatus":1,"isSupportCart":true,"price":999.00,"originPrice":999.00,"names":"魅蓝 S6 全网通公开版 香槟金 3GB+32GB","itemName":"魅蓝 S6","attributes":"全网通公开版 香槟金 3GB+32GB","images":["//openfile.meizu.com/group1/M00/03/01/Cgbj0Vpe_ACAHab5AA1MtHRFPes834.png","//openfile.meizu.com/group1/M00/03/01/Cgbj0Vpe-_mAehigAAqasU5-N7M416.png","//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe_ACAKzlZAATc-eLbrAc456.png","//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe-_mAEaP3AAJN7Byq7io719.png"],"stock":1,"packageIds":[0,221,230,209],"buyButton":"售罄","isPreSale":0,"delaySendDayNum":null,"huabei":[{"eachPriceCent":362.66,"period":3,"eachRatePriceCent":0.0},{"eachPriceCent":181.33,"period":6,"eachRatePriceCent":0.0},{"eachPriceCent":97.46,"period":12,"eachRatePriceCent":6.8}],"appPrice":0,"priceCent":99900},"14:18238;3:18412;13:26155+230":{"cspuId":2466,"skuId":7000,"type":1,"shelveTime":null,"shelfTime":null,"nextShelveTime":null,"saleStatus":null,"activeStatus":1,"isSupportCart":true,"price":1199.00,"originPrice":1199.00,"names":"魅蓝 S6 全网通公开版 月光银 3GB+64GB","itemName":"魅蓝 S6","attributes":"全网通公开版 月光银 3GB+64GB","images":["//openfile.meizu.com/group1/M00/02/F4/Cgbj0Fpe_CSADpnMAAj9ybOz_hU746.png","//openfile.meizu.com/group1/M00/02/F4/Cgbj0Fpe_B2AauJGAAWg2HBXgJI252.png","//openfile.meizu.com/group1/M00/03/02/Cgbj0Vpe_CSAHjXRAASNCtCu1Ls898.png","//openfile.meizu.com/group1/M00/03/02/Cgbj0Vpe_B2AeeSRAAHXA8COBgQ567.png"],"stock":1,"packageIds":[0,230],"buyButton":"售罄","isPreSale":0,"delaySendDayNum":null,"huabei":[{"eachPriceCent":420.66,"period":3,"eachRatePriceCent":0.0},{"eachPriceCent":210.33,"period":6,"eachRatePriceCent":0.0},{"eachPriceCent":113.04,"period":12,"eachRatePriceCent":7.88}],"appPrice":0,"priceCent":119900},"14:18238;3:17496;13:21089+221":{"cspuId":2471,"skuId":6886,"type":1,"shelveTime":null,"shelfTime":null,"nextShelveTime":null,"saleStatus":null,"activeStatus":1,"isSupportCart":true,"price":999.00,"originPrice":999.00,"names":"魅蓝 S6 全网通公开版 磨砂黑 3GB+32GB","itemName":"魅蓝 S6","attributes":"全网通公开版 磨砂黑 3GB+32GB","images":["//openfile.meizu.com/group1/M00/03/00/Cgbj0Vpe--6AUAVIAAjLc7moXjw026.png","//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe--mAS8YFAAW2F26p0h4069.png","//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe-_CAVa-mAASCWc4u51k545.png","//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe--iAF6XFAAHWGp1kOcg150.png"],"stock":1,"packageIds":[0,221,230,209],"buyButton":"售罄","isPreSale":0,"delaySendDayNum":null,"huabei":[{"eachPriceCent":351.33,"period":3,"eachRatePriceCent":0.0},{"eachPriceCent":175.66,"period":6,"eachRatePriceCent":0.0},{"eachPriceCent":94.41,"period":12,"eachRatePriceCent":6.58}],"appPrice":0,"priceCent":99900},"14:18238;3:17496;13:26155+230":{"cspuId":2470,"skuId":6998,"type":1,"shelveTime":null,"shelfTime":null,"nextShelveTime":null,"saleStatus":null,"activeStatus":1,"isSupportCart":true,"price":1199.00,"originPrice":1199.00,"names":"魅蓝 S6 全网通公开版 磨砂黑 3GB+64GB","itemName":"魅蓝 S6","attributes":"全网通公开版 磨砂黑 3GB+64GB","images":["//openfile.meizu.com/group1/M00/03/00/Cgbj0Vpe--6AUAVIAAjLc7moXjw026.png","//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe--mAS8YFAAW2F26p0h4069.png","//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe-_CAVa-mAASCWc4u51k545.png","//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe--iAF6XFAAHWGp1kOcg150.png"],"stock":1,"packageIds":[0,221,230,222],"buyButton":"售罄","isPreSale":0,"delaySendDayNum":null,"huabei":[{"eachPriceCent":420.66,"period":3,"eachRatePriceCent":0.0},{"eachPriceCent":210.33,"period":6,"eachRatePriceCent":0.0},{"eachPriceCent":113.04,"period":12,"eachRatePriceCent":7.88}],"appPrice":0,"priceCent":119900},"14:18238;3:17496;13:21089+0":{"cspuId":2471,"skuId":6209,"type":1,"shelveTime":null,"shelfTime":null,"nextShelveTime":null,"saleStatus":null,"activeStatus":1,"isSupportCart":true,"price":999.00,"originPrice":999.00,"names":"魅蓝 S6 全网通公开版 磨砂黑 3GB+32GB","itemName":"魅蓝 S6","attributes":"全网通公开版 磨砂黑 3GB+32GB","images":["//openfile.meizu.com/group1/M00/03/00/Cgbj0Vpe--6AUAVIAAjLc7moXjw026.png","//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe--mAS8YFAAW2F26p0h4069.png","//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe-_CAVa-mAASCWc4u51k545.png","//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe--iAF6XFAAHWGp1kOcg150.png"],"stock":1,"packageIds":[0,221,230,209],"buyButton":"售罄","isPreSale":0,"delaySendDayNum":null,"huabei":[{"eachPriceCent":333.0,"period":3,"eachRatePriceCent":0.0},{"eachPriceCent":166.5,"period":6,"eachRatePriceCent":0.0},{"eachPriceCent":89.49,"period":12,"eachRatePriceCent":6.24}],"appPrice":0,"priceCent":99900},"14:18238;3:14286;13:26155+230":{"cspuId":2465,"skuId":6996,"type":1,"shelveTime":null,"shelfTime":null,"nextShelveTime":null,"saleStatus":null,"activeStatus":1,"isSupportCart":true,"price":1199.00,"originPrice":1199.00,"names":"魅蓝 S6 全网通公开版 香槟金 3GB+64GB","itemName":"魅蓝 S6","attributes":"全网通公开版 香槟金 3GB+64GB","images":["//openfile.meizu.com/group1/M00/03/01/Cgbj0Vpe_ACAHab5AA1MtHRFPes834.png","//openfile.meizu.com/group1/M00/03/01/Cgbj0Vpe-_mAehigAAqasU5-N7M416.png","//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe_ACAKzlZAATc-eLbrAc456.png","//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe-_mAEaP3AAJN7Byq7io719.png"],"stock":1,"packageIds":[0,230],"buyButton":"售罄","isPreSale":0,"delaySendDayNum":null,"huabei":[{"eachPriceCent":420.66,"period":3,"eachRatePriceCent":0.0},{"eachPriceCent":210.33,"period":6,"eachRatePriceCent":0.0},{"eachPriceCent":113.04,"period":12,"eachRatePriceCent":7.88}],"appPrice":0,"priceCent":119900},"14:18238;3:17496;13:21089+230":{"cspuId":2471,"skuId":6997,"type":1,"shelveTime":null,"shelfTime":null,"nextShelveTime":null,"saleStatus":null,"activeStatus":1,"isSupportCart":true,"price":999.00,"originPrice":999.00,"names":"魅蓝 S6 全网通公开版 磨砂黑 3GB+32GB","itemName":"魅蓝 S6","attributes":"全网通公开版 磨砂黑 3GB+32GB","images":["//openfile.meizu.com/group1/M00/03/00/Cgbj0Vpe--6AUAVIAAjLc7moXjw026.png","//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe--mAS8YFAAW2F26p0h4069.png","//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe-_CAVa-mAASCWc4u51k545.png","//openfile.meizu.com/group1/M00/02/F3/Cgbj0Fpe--iAF6XFAAHWGp1kOcg150.png"],"stock":1,"packageIds":[0,221,230,209],"buyButton":"售罄","isPreSale":0,"delaySendDayNum":null,"huabei":[{"eachPriceCent":354.0,"period":3,"eachRatePriceCent":0.0},{"eachPriceCent":177.0,"period":6,"eachRatePriceCent":0.0},{"eachPriceCent":95.13,"period":12,"eachRatePriceCent":6.63}],"appPrice":0,"priceCent":99900},"14:18238;3:26154;13:26155+230":{"cspuId":2468,"skuId":7916,"type":1,"shelveTime":null,"shelfTime":null,"nextShelveTime":null,"saleStatus":null,"activeStatus":1,"isSupportCart":true,"price":1199.00,"originPrice":1199.00,"names":"魅蓝 S6 全网通公开版 淡钴蓝 3GB+64GB","itemName":"魅蓝 S6","attributes":"全网通公开版 淡钴蓝 3GB+64GB","images":["//openfile.meizu.com/group1/M00/02/F4/Cgbj0Fpe_BKAQlseAA0cvfYq5VY908.png","//openfile.meizu.com/group1/M00/02/F4/Cgbj0Fpe_AqAch5tAArXkC5ZDHc768.png","//openfile.meizu.com/group1/M00/03/01/Cgbj0Vpe_BGAYaejAASTA4pWdOs755.png","//openfile.meizu.com/group1/M00/03/01/Cgbj0Vpe_AqAXJePAAJGqMgJ6NA524.png"],"stock":1,"packageIds":[0,230],"buyButton":"售罄","isPreSale":0,"delaySendDayNum":null,"huabei":[{"eachPriceCent":420.66,"period":3,"eachRatePriceCent":0.0},{"eachPriceCent":210.33,"period":6,"eachRatePriceCent":0.0},{"eachPriceCent":113.04,"period":12,"eachRatePriceCent":7.88}],"appPrice":0,"priceCent":119900},"14:18238;3:18412;13:21089+0":{"cspuId":2467,"skuId":6211,"type":1,"shelveTime":null,"shelfTime":null,"nextShelveTime":null,"saleStatus":null,"activeStatus":1,"isSupportCart":true,"price":999.00,"originPrice":999.00,"names":"魅蓝 S6 全网通公开版 月光银 3GB+32GB","itemName":"魅蓝 S6","attributes":"全网通公开版 月光银 3GB+32GB","images":["//openfile.meizu.com/group1/M00/02/F4/Cgbj0Fpe_CSADpnMAAj9ybOz_hU746.png","//openfile.meizu.com/group1/M00/02/F4/Cgbj0Fpe_B2AauJGAAWg2HBXgJI252.png","//openfile.meizu.com/group1/M00/03/02/Cgbj0Vpe_CSAHjXRAASNCtCu1Ls898.png","//openfile.meizu.com/group1/M00/03/02/Cgbj0Vpe_B2AeeSRAAHXA8COBgQ567.png"],"stock":1,"packageIds":[0,230],"buyButton":"售罄","isPreSale":0,"delaySendDayNum":null,"huabei":[{"eachPriceCent":333.0,"period":3,"eachRatePriceCent":0.0},{"eachPriceCent":166.5,"period":6,"eachRatePriceCent":0.0},{"eachPriceCent":89.49,"period":12,"eachRatePriceCent":6.24}],"appPrice":0,"priceCent":99900}},"packageMap":{"0":{"id":null,"name":"官方标配","profits":0,"items":null,"price":0,"available":true},"209":{"id":209,"name":"套餐三","profits":39.00,"items":["209&11250"],"price":89.00,"available":true},"230":{"id":230,"name":"碎屏保套餐","profits":6.00,"items":["230&11458"],"price":63.00,"available":true},"221":{"id":221,"name":"优惠套餐一","profits":13.00,"items":["221&11400","221&11403"],"price":55.00,"available":true},"222":{"id":222,"name":"优惠套餐二","profits":39.00,"items":["222&11400","222&10945"],"price":99.00,"available":true}},"packageItems":{"222&11400":{"imgUrl":"//openfile.meizu.com/group1/M00/02/FC/Cgbj0VpeqWuAfeu7AAGnegDwX1Y592.png","name":"魅蓝 S6 潮趣真我保护壳（套餐版）","recommend":"3:18","saleAttrs":{"3":[{"id":18,"name":"灰色","imageColor":"http://storeimg.meizu.com/product/1451447334-65161.png","cspuImageColor":"//openfile.meizu.com/group1/M00/02/FC/Cgbj0VpeqWuAfeu7AAGnegDwX1Y592.png","order":null}]},"cells":{"3:18":{"skuId":6251,"price":35.00,"priceCent":3500,"originPriceCent":4900,"profits":14.00,"stock":54,"images":"//openfile.meizu.com/group1/M00/02/FC/Cgbj0VpeqWuAfeu7AAGnegDwX1Y592.png","names":"灰色"}}},"221&11400":{"imgUrl":"//openfile.meizu.com/group1/M00/02/FC/Cgbj0VpeqWuAfeu7AAGnegDwX1Y592.png","name":"魅蓝 S6 潮趣真我保护壳（套餐版）","recommend":"3:18","saleAttrs":{"3":[{"id":18,"name":"灰色","imageColor":"http://storeimg.meizu.com/product/1451447334-65161.png","cspuImageColor":"//openfile.meizu.com/group1/M00/02/FC/Cgbj0VpeqWuAfeu7AAGnegDwX1Y592.png","order":null}]},"cells":{"3:18":{"skuId":6251,"price":40.00,"priceCent":4000,"originPriceCent":4900,"profits":9.00,"stock":54,"images":"//openfile.meizu.com/group1/M00/02/FC/Cgbj0VpeqWuAfeu7AAGnegDwX1Y592.png","names":"灰色"}}},"222&10945":{"imgUrl":"//storeimg.meizu.com/product/1449643421-24522.png","name":"魅族 EP21耳机（套餐版）","recommend":"3:11","saleAttrs":{"3":[{"id":11,"name":"白色","imageColor":"http://storeimg.meizu.com/product/1450922313-97036.png","cspuImageColor":"//storeimg.meizu.com/product/1449643421-24522.png","order":null}]},"cells":{"3:11":{"skuId":4442,"price":64.00,"priceCent":6400,"originPriceCent":8900,"profits":25.00,"stock":93,"images":"//storeimg.meizu.com/product/1449643421-24522.png","names":"白色"}}},"230&11458":{"imgUrl":"//openfile.meizu.com/group1/M00/03/50/Cgbj0VqnlMGAKro5AAdOJag3U04140.png","name":"碎屏保","recommend":"340:26584","saleAttrs":{"340":[{"id":26584,"name":"魅蓝 S6","imageColor":null,"cspuImageColor":null,"order":null}]},"cells":{"340:26584":{"skuId":6993,"price":63.00,"priceCent":6300,"originPriceCent":6900,"profits":6.00,"stock":9741,"images":"//openfile.meizu.com/group1/M00/03/50/Cgbj0VqnlMGAKro5AAdOJag3U04140.png","names":"魅蓝 S6"}}},"209&11250":{"imgUrl":"//openfile.meizu.com/group1/M00/02/7B/Cgbj0FoBV0OAVO4FAAHWxio0Reo515.png","name":"JBL T120A立体声入耳式耳机（套餐版）","recommend":"3:12","saleAttrs":{"3":[{"id":12,"name":"黑色","imageColor":"http://storeimg.meizu.com/product/1451459052-28689.png","cspuImageColor":"//openfile.meizu.com/group1/M00/02/7B/Cgbj0FoBV0OAVO4FAAHWxio0Reo515.png","order":null}]},"cells":{"3:12":{"skuId":5538,"price":89.00,"priceCent":8900,"originPriceCent":12800,"profits":39.00,"stock":74,"images":"//openfile.meizu.com/group1/M00/02/7B/Cgbj0FoBV0OAVO4FAAHWxio0Reo515.png","names":"黑色"}}},"221&11403":{"imgUrl":"//openfile.meizu.com/group1/M00/02/FC/Cgbj0FpgP92AH3eRAALKsblnmbU668.png","name":"魅蓝 S6 高透保护膜（套餐版）","recommend":"3:1572","saleAttrs":{"3":[{"id":1572,"name":"透明","imageColor":"http://storeimg.meizu.com/product/1450922313-97036.png","cspuImageColor":"//openfile.meizu.com/group1/M00/02/FC/Cgbj0FpgP92AH3eRAALKsblnmbU668.png","order":null}]},"cells":{"3:1572":{"skuId":6282,"price":15.00,"priceCent":1500,"originPriceCent":1900,"profits":4.00,"stock":33,"images":"//openfile.meizu.com/group1/M00/02/FC/Cgbj0FpgP92AH3eRAALKsblnmbU668.png","names":"透明"}}}},"skuMap":{"6208":"14:18238;3:14286;13:26155+0","6209":"14:18238;3:17496;13:21089+0","6210":"14:18238;3:17496;13:26155+0","6211":"14:18238;3:18412;13:21089+0","6212":"14:18238;3:18412;13:26155+0","6213":"14:18238;3:26154;13:21089+0","6214":"14:18238;3:26154;13:26155+0","6886":"14:18238;3:17496;13:21089+221","7915":"14:18238;3:26154;13:21089+230","7916":"14:18238;3:26154;13:26155+230","6416":"14:18238;3:14286;13:21089+209","6867":"14:18238;3:14286;13:21089+221","6995":"14:18238;3:14286;13:21089+230","6195":"14:18238;3:14286;13:21089+0","6420":"14:18238;3:17496;13:21089+209","6996":"14:18238;3:14286;13:26155+230","6997":"14:18238;3:17496;13:21089+230","6870":"14:18238;3:17496;13:26155+221","6998":"14:18238;3:17496;13:26155+230","6871":"14:18238;3:17496;13:26155+222","6999":"14:18238;3:18412;13:21089+230","7000":"14:18238;3:18412;13:26155+230"},"discount":null,"joinGroup":null,"moduleName":null,"relatedItems":null,"isSupportCart":true,"huabei":[{"period":3,"rate":0.0},{"period":6,"rate":0.0},{"period":12,"rate":0.075}],"isSupportHuabei":true,"showXiaoNeng":true,"merchantId":1,"notifySkus":[],"showItemRecommend":true,"appActDesc":null}
+        </script>
+
+
+    <div class="compare-bar" id="compareBar" style="position:fixed">
+        <div class="diff-bar" id="diffBar">
+            <div class="diff-bar-title">
+                <div class="bar-title">
+                    <p>商品对比 (<span class="bar-num" id="barNum">0</span>/4)</p>
+                </div>
+                <div class="operate" data-mtype="store_public_compare_close">
+                    <i class="iconfont icon-chahao hide-me"></i>
+                </div>
+            </div>
+
+            <div class="diff-bd tab-cons">
+                <div class="tab-con clearfix" id="tabCon" style="display: block">
+                    <div class="diff-items" id="diffItems">
+
+                    </div>
+
+                    <div class="diff-operate" id="diffOperate">
+                        <a href="javascript:void(0);" id="J_btnCompare" class="btn btn-primary btn-lg" data-mtype="store_public_compare"><i></i>对比</a>
+                        <a href="javascript:void(0);" id="J_compareClear" data-mtype="store_public_compare_delall">清空商品</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+<footer class="layout-footer">
+    <div class="mzcontainer">
+        <section class="layout-footer-top clearfix">
+            <ul class="layout-footer-services clearfix">
+                <li class="layout-footer-services-item">
+                    <a href="http://service.meizu.com/help/delivery.html" class="layout-footer-services-link" target="_blank" data-mtype="wmz_public_foot_freemail">
+            <span class="layout-footer-service-wrap"><i class="layout-font layout-font-foot1"></i></span>
+            <span class="layout-footer-services-text">顺丰包邮</span>
+          </a>
+                </li>
+                <li class="layout-footer-services-item">
+                    <a href="https://store.meizu.com/marrive/summary.html" class="layout-footer-services-link" target="_blank" data-mtype="wmz_public_foot_cityfast">
+            <span class="layout-footer-service-wrap"><i class="layout-font layout-font-foot2"></i></span>
+            <span class="layout-footer-services-text">100+ 城市次日送达</span>
+          </a>
+                </li>
+                <li class="layout-footer-services-item">
+                    <a href="http://service.meizu.com/help/after_ser.html#policy1" class="layout-footer-services-link" target="_blank" data-mtype="wmz_public_foot_noreasonreturn">
+            <span class="layout-footer-service-wrap"><i class="layout-font layout-font-foot3"></i></span>
+            <span class="layout-footer-services-text">7 天无理由退货</span>
+          </a>
+                </li>
+                <li class="layout-footer-services-item">
+                    <a href="http://service.meizu.com/help/after_ser.html#policy2" class="layout-footer-services-link" target="_blank" data-mtype="wmz_public_foot_exchangeguarantee">
+            <span class="layout-footer-service-wrap"><i class="layout-font layout-font-foot4"></i></span>
+            <span class="layout-footer-services-text">15 天换货保障</span>
+          </a>
+                </li>
+                <li class="layout-footer-services-item">
+                    <a href="http://service.meizu.com/help/after_ser.html#policy3" class="layout-footer-services-link" target="_blank" data-mtype="wmz_public_foot_freerepair">
+            <span class="layout-footer-service-wrap"><i class="layout-font layout-font-foot5"></i></span>
+            <span class="layout-footer-services-text">1 年免费保修</span>
+          </a>
+                </li>
+                <li class="layout-footer-services-item">
+                    <a href="http://retail.meizu.com/index.html" class="layout-footer-services-link" target="_blank" data-mtype="wmz_public_foot_offexperience">
+            <span class="layout-footer-service-wrap"><i class="layout-font layout-font-foot6"></i></span>
+            <span class="layout-footer-services-text">2300+ 线下体验店</span>
+          </a>
+                </li>
+                <li class="layout-footer-services-item">
+                    <a href="http://care.meizu.com/msupport/summary.html" class="layout-footer-services-link" target="_blank" data-mtype="wmz_public_foot_remotesupport">
+            <span class="layout-footer-service-wrap"><i class="layout-font layout-font-foot7"></i></span>
+            <span class="layout-footer-services-text">远程支持服务</span>
+          </a>
+                </li>
+                <li class="layout-footer-services-item">
+                    <a href="http://care.meizu.com/repair/home/profile.html" class="layout-footer-services-link" target="_blank" data-mtype="wmz_public_foot_homerepair">
+            <span class="layout-footer-service-wrap"><i class="layout-font layout-font-foot8"></i></span>
+            <span class="layout-footer-services-text">上门快修</span>
+          </a>
+                </li>
+            </ul>
+            <div class="layout-footer-contact">
+<p class="layout-footer-contact-desc">周一至周日 7:30-24:00</p>
+                <a href="tel:400-788-3333" class="layout-footer-contact-tel">400-788-3333</a>
+                <p>
+                    <a href="javascript:void(0);" data-mtype="wmz_public_foot_onservice" class="layout-footer-contact-online" onclick="window.open('http://live-i.meizu.com/live800/chatClient/chatbox.jsp?companyID=8957&amp;configID=4&amp;enterurl='+ encodeURIComponent(document.URL) + '&amp;pagereferrer=' + encodeURIComponent(document.referrer) + '&amp;info=&amp;k=1', '_blank','height=775,width=1200,fullscreen=3,top=100,left=100,status=yes,toolbar=no,menubar=no,resizable=no,scrollbars=no,location=no,titlebar=no,fullscreen=no');">
+            <i class="layout-font layout-font-talk1"></i><span class="text">在线客服</span>
+          </a>
+                </p>
+            </div>
+        </section>
+        <section class="layout-footer-bottom clearfix">
+            <ul class="layout-footer-interlock clearfix">
+                <li class="layout-footer-interlock-item">
+                    <a href="//www.meizu.com/about.html" target="_blank" class="layout-footer-interlock-link" data-mtype="wmz_public_yw_learn">了解魅族</a>
+                </li>
+                <li class="layout-footer-interlock-item">
+                    <a href="http://hr.meizu.com/" target="_blank" class="layout-footer-interlock-link" data-mtype="wmz_public_yw_join">加入我们</a>
+                </li>
+                <li class="layout-footer-interlock-item">
+                    <a href="//www.meizu.com/contact.html" target="_blank" class="layout-footer-interlock-link" data-mtype="wmz_public_yw_contact">联系我们</a>
+                </li>
+                <li class="layout-footer-interlock-item">
+                    <a href="http://www.flyme.cn/" target="_blank" class="layout-footer-interlock-link" data-mtype="wmz_public_yw_flyme">Flyme</a>
+                </li>
+                <li class="layout-footer-interlock-item">
+                    <a href="http://bbs.meizu.com" target="_blank" class="layout-footer-interlock-link" data-mtype="wmz_public_yw_bbs">魅族社区</a>
+                </li>
+                <li class="layout-footer-interlock-item">
+                    <a href="https://meizu.tmall.com/" target="_blank" class="layout-footer-interlock-link" data-mtype="wmz_public_yw_tmall">天猫旗舰店</a>
+                </li>
+                <li class="layout-footer-interlock-item">
+                    <a href="//www.meizu.com/feedback.html" target="_blank" class="layout-footer-interlock-link" data-mtype="wmz_public_yw_question">问题反馈</a>
+                </li>
+                <li class="layout-footer-interlock-item">
+                    <a href="//www.meizu.com/authorization.html" target="_blank" class="layout-footer-interlock-link" data-mtype="wmz_public_yw_map">线上销售授权名单公示</a>
+                </li>
+<li class="layout-footer-interlock-item">
+          <a href="//cimg2.res.meizu.com/www/meizu/publish_license.pdf" target="_blank" class="layout-footer-interlock-link" data-mtype="wmz_public_yw_license">出版物经营许可证</a>
+        </li>
+            </ul>
+            <div class="layout-footer-copyright clearfix">
+                <span class="layout-footer-copyright-left">
+          <a class="layout-footer-copyright-link copyright-text">&copy;2018 Meizu Telecom Equipment Co., Ltd. All rights reserved.</a>
+          <a class="layout-footer-copyright-link" hidefocus="true" href="http://www.miitbeian.gov.cn/" target="_blank">粤ICP备13003602号-2</a>
+          <a class="layout-footer-copyright-link" hidefocus="true" href="//store.res.meizu.com/layout/img/icp-abd57f3b39.png" target="_blank">合字B2-20170010</a>
+          <a class="layout-footer-copyright-link" hidefocus="true" href="//www2.res.meizu.com/zh_cn/images/common/com_licence.jpg" target="_blank">营业执照</a>
+          <a class="layout-footer-copyright-link" hidefocus="true" href="http://www.meizu.com/legalStatement.html"target="_blank">法律声明</a>
+          <a class="layout-footer-copyright-link">粤公网安备 44049102496009 号</a>
+          <a class="layout-footer-copyright-link" hidefocus="true" href="http://210.76.65.188/" rel="nofollow" target="_blank">
+            <i class="layout-icon layout-icon-license"></i>
+          </a>
+          <a class="layout-footer-copyright-link" hidefocus="true" href="http://210.76.65.188/webrecord/innernet/Welcome.jsp?bano=4404013010531" rel="nofollow" target="_blank">
+            <i class="layout-icon layout-icon-wel"></i>
+          </a>
+          <a class="layout-footer-copyright-link" hidefocus="true" href="https://credit.szfw.org/CX20151204012550820380.html" rel="nofollow" target="_blank">
+            <i class="layout-icon layout-icon-trust"></i>
+          </a>
+        </span>
+                <ul class="layout-footer-media clearfix">
+                    <li class="layout-footer-media-item">
+                        <a href="http://weibo.com/meizumobile" class="layout-footer-media-link">
+              <i class="layout-font layout-font-weibo"></i>
+            </a>
+                    </li>
+                    <li class="layout-footer-media-item">
+                        <a href="javascript:void(0);" class="layout-footer-media-link wechat">
+              <i class="layout-font layout-font-wechat"></i>
+              <div class="layout-footer-media-wechat-qrcode">
+                <img class="layout-footer-media-wechat-img" src="//www3.res.meizu.com/static/cn/_partial/footer/images/wx-code_94c130c.jpg" alt="微信二维码">
+              </div>
+            </a>
+                    </li>
+                    <li class="layout-footer-media-item">
+                        <a href="https://user.qzone.qq.com/2762957059" class="layout-footer-media-link">
+              <i class="layout-font layout-font-qzone"></i>
+            </a>
+                    </li>
+                </ul>
+            </div>
+        </section>
+    </div>
+</footer>
+
+
+<script src="//store.res.meizu.com//layout/js/layout-f5ced6cfe4.js" type="text/javascript"></script>
+
+<script type="text/javascript"
+        src="//store.res.meizu.com/detail/js/detail-17adcddee6.js"></script>
+<script>
+    var NTKF_PARAM = {
+        siteid: 'zu_1000',
+        sellerid: '',
+        settingid: 'zu_1000_1526293181894',
+        itemid: MZ.modelData.itemNumber,
+        uid: '',
+        uname:''
+    }
+</script>
+<script src="//dl.meizu.cn/js/b2b/ntkfstat.js?siteid=zu_1000" charset="utf-8"></script>
+<script>
+    var __mzt = __mzt || [];
+    (function () {
+        var hm = document.createElement("script");
+        hm.src = "//sccom.res.meizu.com/js/analytics-min.js";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+
+<script type="text/javascript" charset="utf-8">
+    var _hmt = _hmt || [];
+    (function () {
+        var hm = document.createElement("script");
+        hm.src = ('https:' == document.location.protocol ? 'https://tongji-res.meizu.com' : 'http://tongji-res1.meizu.com') + '/resources/tongji/flow.js';
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+
+<script type="text/javascript">
+    var _hmt = _hmt || [];
+    (function () {
+        var hm = document.createElement("script");
+        hm.src = "//hm.baidu.com/hm.js?2a0c04774115b182994cfcacf4c122e9";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script></body>
+</html>
+

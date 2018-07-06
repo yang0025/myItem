@@ -1,0 +1,843 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+
+/* =================导航栏部分================= */
+header{
+    width: 1245px;
+    height: 80px;
+    margin: 0 auto;
+    display: flex;
+   
+}
+header #logo{
+    width: 140px;
+    height: 25px;
+    margin-top: 28px;
+   
+}
+.nav{
+    width: 800px;
+    height: 100%;
+    height: 25px;
+    margin: 28px 13px 13px;
+   
+   
+}
+header .nav li{
+    font-size: 15px;
+    float: left;
+}
+.nav li a{
+    color: black;
+    margin: 10px;
+}
+.nav li a:hover{
+    color: rgb(0, 195, 245);
+}
+
+header .search{
+    display: flex;
+    width: 355px;
+    height: 30px;
+    margin: 24px 10px 10px;
+    position: relative;
+}
+.search input{
+    width: 200px;
+    height: 25px;
+    border-radius: 20px;
+    border: 1px solid #ccc
+}
+.search .right{
+    position: absolute;
+    right: 0;
+}
+.search img{
+    width: 20px;
+    height: 20px;
+}
+.search #user{
+    position: absolute;
+    right: 60px;
+}
+.search .left{
+    position: absolute;
+}
+/* =================轮播图样式=============== */
+.box{
+    width: 1920px;
+    height: 480px;
+    position: relative;
+   
+    
+}
+.list{
+    position: relative;
+}
+.list img{
+    width: 1920px;
+    height: 480px;
+    border: none;
+    display: block;
+}
+.list a {
+    width: 1920px;
+    height: 480px;
+    display: block;
+    position: absolute;
+    opacity: 0;
+    z-index: 9;
+    transition: all 0.2s;
+    text-decoration: none;
+    border: none;
+
+    
+}
+
+.list a:nth-of-type(1){
+    opacity:1;
+}
+.dot{
+    position: absolute;
+    bottom: 10px;
+    z-index: 10;
+    left:800px;
+    
+    
+}
+.dot a{
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    background:rgba(0, 0, 0, 0);
+    border: 1px solid white;
+    z-index: 10;
+    border-radius: 50%;
+    margin: 0 5px;
+   
+}
+.dot a:hover{
+    background-color: rgb(0, 192, 245)
+}
+.list a:target{
+    opacity: 1;
+}
+/* ======左侧导航栏样式 =========*/
+.box .navLeft{
+    width: 244px;
+    height: 480px;
+    position: absolute;
+    z-index: 50;
+    left: 332px;
+    background-color: rgba(248,247,247,0.8)
+}
+.navLeft ul li{
+    width: 213px;
+    height: 50px;
+    margin: 0;
+    padding-left: 30px;
+}
+.navLeft ul li:hover{
+    background-color:white;
+}
+.navLeft ul li:nth-child(1){
+    margin-top: 30px;
+}
+.navLeft ul a{
+    color: black;
+    font-size: 14px;
+    height: 50px;
+    line-height: 50px;
+
+}
+/* ============轮播图下方的部分=========== */
+.navBottom{
+    width: 1245px;
+    height: 140px;
+    margin: 5px auto;
+    display: flex;
+    justify-content: space-around;
+  
+}
+.navBottom>div{
+    width: 244px;
+    height: 140px;
+     
+}
+.navBottom .icon1{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(240, 240, 240);
+}
+.navBottom .icon1>div{
+    width: 122px;
+    height: 70px;
+    
+    margin: 0;
+    font-size: 14px;
+    color: rgb(102, 102, 102);
+}
+.navBottom .icon1>div{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.navBottom .icon1>div i{
+   font-size: 24px;
+   width:122px;
+   height: 24px;
+   
+   text-align: center;
+   margin-top: 10px;
+  
+}
+ .navBottom .icon1>div span{
+    display: inline-block;
+    width:122px;
+    height: 24px;
+    
+    text-align: center;
+
+}
+    .navBottom .icon1>div:hover{
+        color:rgb(153, 153, 153)
+}
+.navBottom img{
+    width: 244px;
+    height: 140px;
+    
+}
+
+/* =======热门推荐部分========== */
+.popular{
+    width: 1245px;
+    height: 30px;
+    
+    margin: 50px auto;
+}
+.popular .text{
+    position: relative;
+   
+}
+
+.popular .text p{
+    font-size: 25px;
+    display: inline-block;
+}
+
+
+
+.popular .text a{
+    display:inline-block;   width: 30px;
+    height: 30px;
+    border: 1px solid gray;
+    right: 0;
+    position: absolute;
+}
+.popular .text .arrow{
+    margin-right: 40px;
+    
+    
+}
+
+.popular .text i:last-child{
+    padding-top: 5px;
+    padding-left:7px;
+   
+}
+
+.popular .text i{
+    font-size: 25px;
+    color: gray;
+    padding: 2px;
+    
+ }
+ /* 商品 */
+ .product{
+     width: 100%;
+     height: 338px;
+     
+     margin-top: 30px;
+     display: flex;
+    
+ }
+ 
+ .pro1{
+    width: 247px;
+    height: 338px;
+    border: 1px solid ;
+    border: 1px solid rgb(230, 230, 230);
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+ .pro1:hover{
+       border: 1px solid rgb(200, 200, 200);
+ }
+ /* 文字 */
+ 
+.pro1 img{
+    
+    display: inline-block;
+    top: 30px;
+    
+   
+}
+
+.pro1 .textIntro{
+    width: 130px;
+    height: 100px;
+   
+    text-align: center;
+    padding: 30px;
+    box-sizing: border-box;
+    line-height: 25px;
+    position: relative;
+}
+
+.pro1 .textIntro p{
+    color: black;
+    
+}
+
+.pro1 .textIntro p:nth-child(1){
+    font-size: 14px;
+    color: gray;
+}
+
+.pro1 .textIntro p:nth-child(2){
+  
+   
+    font-size: 12px;
+    color: white;
+    background-color: rgb(241, 67, 97);
+  
+   
+}
+.pro1 .textIntro p:nth-child(3){
+    font-size: 14px;
+    color: rgb(241, 67, 97);
+   
+}
+.pro1 .money{
+    width: 120px;
+    
+    display: flex;
+    margin-left:-10px;
+    
+}
+.pro1 .textIntro .money>p{
+    color: rgb(241, 67, 97);
+
+}
+.pro1 #price{
+    color:gray;
+    text-decoration: line-through;
+    font-weight: 200;
+    position: absolute;
+    right: 10px;
+}
+
+/* 横幅 */
+.ad{
+    width: 1245px;
+    height: 120px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.ad img{
+    width: 1245px;
+   
+}
+/* 透明背景样式 */
+.container{
+    width: 100%;
+    /* height: 500px; */
+    background:rgba(230,230,230,0.6);
+    border: 1px solid white;
+    margin-top: 570px;
+}
+
+.word{
+    width: 1245px;
+    height: 50px;
+    margin: 0 auto;
+   
+    margin-top: 50px;
+    display: flex;
+    justify-content:space-between;
+    position: relative;
+}
+.container .leftW{
+   
+    width: 200px;
+    margin-top: 50px;
+ }
+ 
+
+
+.container .leftW p{
+    display: inline-block;
+    position: absolute;
+
+    
+}
+.container .leftW p:first-child{
+    font-size: 25px;
+    bottom: 0;
+   
+}
+.container .leftW #hot{
+    left: 80px;
+    bottom: 0;
+   
+    height: 30px;
+    border-bottom:2px solid rgb(0, 195, 245);
+    color:rgb(0, 195, 245)
+   
+ }
+ .container .word span:last-child{
+     
+     padding-top: 5px;
+ }
+ .container .word>a{
+     color:black;
+ }
+
+ /* 手机部分的图片 */
+ .wrapper{
+    width: 1245px;
+    height: 686px;
+   
+    margin: 0 auto;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+ }
+ /* 手机图片部分 */
+ .wrapper>div{
+     width: 244px;
+     height: 338px;
+    
+     cursor: pointer;
+     background-color: white;
+ }
+ .wrapper .newPro{
+    position: relative;
+   
+ }
+ .wrapper .newPro:hover{
+    transform: translateY(-2px);
+    box-shadow: #ccc;
+    box-shadow:2px 2px 10px #ccc;
+
+ } 
+ 
+
+
+
+ .wrapper .newPro .new{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: rgb(0, 195, 245);
+    font-size: 14px;
+    color: white;
+    position: absolute;
+    top: 15px;
+    right: 10px;
+    padding: 10px 5px;
+    box-sizing: border-box;
+}
+.wrapper .newPro img{
+     
+     margin-top: 50px;
+     margin-left: 30px;
+}
+
+.wrapper .newPro .para{
+    width: 244px;
+    height: 60px;
+   
+   margin-top: 20px;
+}
+
+.wrapper .newPro .para p{
+    width: 244px;
+    height: 20px;
+    
+    text-align: center;
+ 
+
+}
+.wrapper .newPro .para p:nth-child(1){
+    color: rgb(85, 87, 87);
+    font-size: 13px;
+   
+ }
+ .wrapper .newPro .para p:nth-child(2){
+    font-size: 12px;
+    color: rgb(153, 153, 153);
+
+ }
+ .wrapper .newPro .para p:nth-child(3){
+    color: rgb(241, 67, 97);
+    font-size: 13px;
+   
+    
+}
+.wrapper .newPro .para div{
+    display: flex;
+     width: 110px;
+     margin-left: 80px;
+  
+     
+    
+     
+}
+
+.wrapper .newPro #special{
+    font-size: 12px;
+    color: rgb(153, 153, 153);
+    text-decoration: line-through;
+    
+   
+}
+
+.wrapper .newPro .redBgc{
+    background-color: rgb(241, 67, 97);
+ }
+
+ .wrapper:last-child{
+     padding-bottom: 30px;
+ }
+
+
+ /* ===============底部部分============ */
+
+ footer{
+     width: 100%;
+     height: 300px;
+     background-color: white;
+ }
+
+ footer div{
+     width: 1245px;
+     margin: 0 auto;
+}
+footer .t-first{
+     width: 1245px;
+     height: 200px;
+     display: flex;
+     justify-content: space-between;
+     
+}
+footer .t-last{
+     width: 1245px;
+     height: 100px;
+}
+
+.t-first .left{
+   width: 960px;
+   height: 120px;
+   border-bottom: 1px solid rgb(153, 153, 153);;
+   margin: 0;
+   margin-top: 80px;
+   display: flex;
+   flex-wrap: wrap;
+
+}
+
+
+.t-first .left div{
+    width: 238px;
+    height: 33px;
+   
+    position: relative;
+}
+.t-first .left i{
+    font-size: 25px;
+    color: rgb(153, 153, 153);
+}
+.t-first .left span{
+    display: inline-block;
+    font-size: 14px;
+    color: rgb(153, 153, 153);
+    position: absolute;
+    top: 5px;
+    left: 33px;
+}
+.t-first .right{
+    width: 144px;
+    height: 92px;
+   
+    margin-top: 80px;
+    margin-right: 0px;
+    
+}
+
+.t-first .right p:first-child{
+
+   font-size: 12px;
+   color:rgb(153, 153, 153);
+    text-align: center;
+}
+
+.t-first .right p:nth-child(2){
+
+    font-size: 20px;
+    color:rgb(0, 195, 245);
+    text-align: center;
+ 
+ }
+
+ .t-first .right div{
+    width: 144px;
+    height: 40px;
+    background-color: rgb(0, 195, 245);
+    text-align: center;
+    color: white;
+    border-radius: 3px;
+    position: relative;
+}
+.t-first .right div i{
+    font-size: 25px;
+    position: absolute;
+    left:20px;
+    top:5px;
+
+}
+
+
+.t-first .right div span{
+   position: absolute;
+   font-size: 18px;
+   top:5px;
+   left: 50px;
+}
+footer hr{
+    width: 1245px;
+    margin: 0 auto;
+}
+/* ===========最底部信息============ */
+.t-last .info{
+    width: 1245px;
+    height: 16px;
+    
+    margin-top: 20px;
+}
+.t-last .info >div{
+    width: 50px;
+    height: 16px;
+   
+    float: left;
+    font-size: 12px;
+    color: rgb(153, 153, 153);
+    text-align: center;
+}
+.t-last .info div:nth-child(1){
+    width: 63px;
+   
+}
+
+
+.t-last .info div:nth-child(2){
+    width: 78px;
+    border-left: 1px solid rgba(153, 153, 153,0.5);
+}
+
+
+
+.t-last .info div:nth-child(3){
+    width: 78px;
+    border-left: 1px solid rgba(153, 153, 153,0.5);
+}
+
+
+
+.t-last .info div:nth-child(4){
+    width: 63px;
+    border-left: 1px solid rgba(153, 153, 153,0.5);
+}
+
+.t-last .info div:nth-child(5){
+    width: 78px;
+    border-left: 1px solid rgba(153, 153, 153,0.5);
+}
+
+
+.t-last .info div:nth-child(6){
+    width: 90px;
+    border-left: 1px solid rgba(153, 153, 153,0.5);
+}
+
+
+.t-last .info div:nth-child(7){
+    width: 78px;
+    border-left: 1px solid rgba(153, 153, 153,0.5);
+}
+
+
+.t-last .info div:nth-child(8){
+    width: 150px;
+    border-left: 1px solid rgba(153, 153, 153,0.5);
+}
+
+
+.t-last .info div:nth-child(9){
+    width: 126px;
+    border-left: 1px solid rgba(153, 153, 153,0.5);
+}
+
+
+
+
+
+
+
+
+.t-last .add{
+    width: 1245px;
+    height: 16px;
+     margin-top: 20px;
+    position: relative;
+ }
+
+ .t-last .add p{
+    
+    font-size: 12px;
+    color: rgb(153, 153, 153);
+    display: inline-block;
+}
+
+.t-last .add span{
+    display:inline-block;
+    width: 160px;
+    position: absolute;
+    right: 0;
+    text-align: center;
+}
+.t-last .add span i{
+  
+    width: 40px;
+   /* font-size: 20px; */
+    color:rgb(153, 153, 153); 
+    margin: 0;
+    padding: 0;
+}
+
+/* 固定小方块 */
+
+.sq{
+   width: 50px;
+   height: 154px;
+  
+   position: absolute;
+   right: 0;
+   position: fixed;
+   bottom:100px;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+}
+
+
+
+.sq div{
+   width: 50px;
+   height: 50px;
+   background-color: rgba(190, 190, 190, 0.5);
+   cursor: pointer;
+   
+}
+.sq div:hover{
+   background-color: rgba(180, 180, 180, 0.6);
+
+
+}
+
+
+.sq div:nth-child(1){
+    text-align: center;
+    color: white;
+    box-sizing: border-box;
+    padding-top: 10px;
+    font-size: 15px;
+ 
+ }
+
+
+.sq div:nth-child(2){
+    text-align: center;
+    color: white;
+    font-weight: 400;
+    box-sizing: border-box;
+    padding-top: 15px;
+    font-size: 16px;
+ 
+ }
+
+ .sq div:nth-child(3){
+    text-align: center;
+    color: white;
+    font-size: 30px;
+ 
+ }
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
